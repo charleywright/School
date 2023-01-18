@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "6de71cdbd034345a",
+        "id": "302dc8614e8f4d57",
         "type": "tabs",
         "children": [
           {
-            "id": "89b68b0dd926f2d1",
+            "id": "4e4537a0a7d44e71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "7ed760b0969125a9"
+            "group": "d1d5b10a2de6ef8f"
           }
         ]
       },
       {
-        "id": "1330d521315c72ba",
+        "id": "a7e2084e634dfc2e",
         "type": "tabs",
         "children": [
           {
-            "id": "646982cdecd450b8",
+            "id": "a8880928d00ec02a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "7ed760b0969125a9"
+            "group": "d1d5b10a2de6ef8f"
           }
         ]
       }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,12 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89b68b0dd926f2d1",
+  "active": "4e4537a0a7d44e71",
   "lastOpenFiles": [
+    "README.md",
+    "Maths.md",
     "Geography/Glaciation.md",
     "chemistry.md",
     "Geography/Mumbai Case Study.md",
-    "Maths.md",
     "physics.md",
     "english.md",
     "computer-science.md"
