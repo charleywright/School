@@ -1,6 +1,6 @@
 ##### Sketching graphs of derived functions
 * **The derivative is the gradient of the graph.** If the gradient is positive so must that point on the derivative (even if the point on the original graph has `y < 0`)
-* 
+* (See below) The gradient decreases as the gradient decreases, then increases as the gradient increases
 ```desmos-graph
 left=-40; right=40; top=400; bottom=-400;
 ---
