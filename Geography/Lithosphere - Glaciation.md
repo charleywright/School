@@ -42,8 +42,8 @@
 
 ##### Hanging Valley
 * **Most marks are from u-shaped valley**
-* 
-* Tributary streams/valleys have much less power therefore don't erode as deep
+* Formed where a glacier was in a tributary stream
+* Tributary streams/valleys have much less power therefore don't erode as deep as the main valley
 * After glacier retreats, tributary streams form waterfalls where they enter main valley
 
 ##### Ribbon Lake/Loch (Loch Avon, Cairngorms)
@@ -78,3 +78,5 @@
 * The material is sorted as the heaviest material was deposited first
 * Rocks hit together and rounded eachother, called attrition
 * Further rounding occurs due to large rocks rolling along riverbed (Traction)
+
+## Land Use

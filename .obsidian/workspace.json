@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Glaciation.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "e1b0745c10907f5f"
+          },
+          {
+            "id": "2345fac46b616190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Hydrosphere.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -32,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Glaciation.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Glaciation.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Glaciation.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Glaciation.md"
+                "file": "Geography/Lithosphere - Glaciation.md"
               }
             }
           }
@@ -168,13 +179,15 @@
   },
   "active": "b7864f35c90493bb",
   "lastOpenFiles": [
+    "Geography/Hydrosphere.md",
+    "Geography/Lithosphere - Glaciation.md",
+    "Geography/Biosphere.md",
     "Maths.md",
     "Computer Science.md",
     "Chemistry.md",
     "Physics.md",
     "English.md",
     "Geography/Mumbai Case Study.md",
-    "Geography/Glaciation.md",
     "Geography.md"
   ]
 }
