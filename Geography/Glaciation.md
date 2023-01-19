@@ -53,6 +53,8 @@
 
 
 ## Depositional Features
+**Material deposits
+
 #### Terminal Moraine
 * Caused by glacier losing energy and discarding material (temperature rising as altitude decreases and/or temperature in surrounding area increasing)
 * Barrier across the floor of U-Shaped valley
@@ -61,15 +63,17 @@
 * Sharp, angular material from plucking/freeze-thaw
 
 #### Drumlin
-* **Very similar to terminal moraine**
 * Formed from material dumped by a glacier therefore rough, jagged from plucking & freeze-thaw
 * Formed where a pre-existing "hook" was which catches material 
 * Material is dumped as the glacier loses power therefore unsorted
 * Steep side called Stoss, Gentle side called Lee
 * Elongated mound as material was deposited then glacier continued moving, dragging out the material forming Lee slope
-* Often found in groups like eggs in a basket
+* Often found in swarms like a basket of eggs
 
 #### Esker
+* Found after a glacier as material has been carried by a metlwater (fluvioglacial) stream
 * Long winding snake-like ridge of material along valley floor
 * Formed where a meltwater (fulvioglacial) stream existed inside the glacier
-* The material is sorted as the heaviest material was droppe
+* The material is sorted as the heaviest material was deposited first
+* Rocks hit together and rounded eachother, called attrition
+* Further rounding occurs due to large rocks rolling along riverbed (Traction)
