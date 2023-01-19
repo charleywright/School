@@ -62,9 +62,14 @@
 
 #### Drumlin
 * **Very similar to terminal moraine**
-* Formed from material dumped by a glacier therefore unsorted
-* Material is dumped as the glacier loses power
-* Elongated mount
-* Stoss, Lee
+* Formed from material dumped by a glacier therefore rough, jagged from plucking & freeze-thaw
+* Formed where a pre-existing "hook" was which catches material 
+* Material is dumped as the glacier loses power therefore unsorted
+* Steep side called Stoss, Gentle side called Lee
+* Elongated mound as material was deposited then glacier continued moving, dragging out the material forming Lee slope
+* Often found in groups like eggs in a basket
 
 #### Esker
+* Long winding snake-like ridge of material along valley floor
+* Formed where a meltwater (fulvioglacial) stream existed inside the glacier
+* The material is sorted as the heaviest material was droppe
