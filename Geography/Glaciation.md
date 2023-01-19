@@ -58,10 +58,11 @@
 - **Fluvioglacial(Meltwater) Deposits**: Sediment deposited by meltwater stream. Sorted by size as heavier material is deposited first, often in layers (stratified). Rocks are rounded, with rounded gravel and sand too due to attrition (rocks hitting eachother and rounding eachother)
 
 #### Terminal Moraine
-* Barrier formed from one side to the other across a u-shaped valley floor at the furthest point a glacier reached
+* Barrier formed from one side to the other across a u-shaped valley floor marking the furthest point a glacier reached
 * Made of unsorted material as it was being pushed by the glacier before being deposited
 * Material is rough and jagged as it came from plucking/freeze-thaw and was carried by the glacier
-* The glacier
+* The glacier lost energy due to ice melting caused by increasing temperatures. These are due to altitude decreasing and/or the surrounding area warming up
+* It may act as a natural dam, causing a ribbon lake to form behind it
 
 #### Drumlin
 * Formed from material dumped by a glacier therefore rough, jagged from plucking & freeze-thaw
