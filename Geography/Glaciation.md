@@ -53,7 +53,9 @@
 
 
 ## Depositional Features
-**Material deposits
+**Material deposits can be**
+- **Till**: Sediment carried and deposited by ice. Unsorted in size and jagged due to originating from plucking and/or freeze-thaw
+- **Fluvioglacial(Meltwater) Deposits**: Sediment deposited by meltwater stream. Sorted by size as heavier material is deposited first, often in layers (stratified). Rocks are rounded, with rounded gravel and sand too due to attrition (rocks hitting eachother and rounding eachother)
 
 #### Terminal Moraine
 * Caused by glacier losing energy and discarding material (temperature rising as altitude decreases and/or temperature in surrounding area increasing)
