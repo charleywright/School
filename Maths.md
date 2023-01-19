@@ -16,3 +16,5 @@ $$x =\frac{3\pi}{4}, x=\frac{5\pi}{4}$$
 
 **The harder ones**
 $$2sin(3x-60)\degree+1=0, 0 \le x < 180$$
+$$sin(3x-60)=\frac{-1}{2}$$
+$$3x-60=$$
