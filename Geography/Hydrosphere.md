@@ -25,6 +25,11 @@
 * They do this through abtrasion and hydraulic action
 * Erosion is greatest on the outide of the river bends as this is where the flow of water is the fastest
 * As water hits the outside of the bend it is forced under and along the riverbed to the opposite side of the river. This forms a spiral and is called helicoidal flow
-* 
+* This causes a steep river cliff to form on the outside of the bend and a river beach on the inside
+* The river beach is made up of materials that the river has been carrying that have been deposited due to the inside of a bend having much slower flow rate and less energy
 
 #### Formation of ox-bow lake
+* Ox-bow lakes form in the lower course of a river where flood plain sediment is reworked through lateral erosion, causing the shape and path of that stretch of river to be ever-changing
+* They are formed where a pre-existing 
+* Erosive processes include hydraulic action and abrasion (EXPLAIN)
+* 
