@@ -25,11 +25,17 @@ $$x=10\degree, x=90\degree, x=130\degree$$
 1. Rearrange to get the trig on it's own
 2. Use exact values in non-calc or calculator to find $$\sin^{-1}(\frac{1}{2})=30\degree$$
 3. Use the CAST diagram. Because of the negative we use the opposites (Cos and Tan instead of All and Sin) giving $$x=180+30, x=360-30$$ $$x=210\degree, x=390\degree$$
-4. After re-arranging for $x$ we get $$x=90\degree, x=130\degree$$ Now we need to take into account the period of one wave. Because we initlaly had $3x$, we divide 360 by 3, giving a period of 120. This means one full sine wave takes 120°
+4. After rearranging for $x$ we get $$x=90\degree, x=130\degree$$ Now we need to take into account the period of one wave. Because we initlaly had $3x$, we divide 360 by 3, giving a period of 120. This means one full sine wave takes 120°
 5. Finally we have to find all of the answers that fit within the given domain. $130-120=10$, $0 \le 10$ therefore 10 is another possible answer
 
 **Another example**
 $$3cos(2x)=1$$
 $$cos(2x)=\frac{1}{3}$$
-$$cos^{-1}(\frac{1}{3})=1.231$$
 $$2x=1.231, 2x=2\pi-1.231$$
+$$2x=1.231, 2x=5.052$$
+$$x=0.616, x=2.53$$
+$$x=0.616, x=2.53, x=3.76, x=5.67$$
+
+1. Rearrange same as before to get the trig on it's own
+2. Use a calculator to remove the trig $$cos^{-1}(\frac{1}{3})=1.231$$
+3. Because the fraction was positive we are going to use the normal CAST values, All and Cos, giving $$2x=1.231, 2x=2\pi-1.231$$ We can then re
