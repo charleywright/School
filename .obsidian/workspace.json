@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "365b15a50fee6fdb"
-          }
-        ]
-      },
-      {
-        "id": "34c5c6282ab1f278",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6bcd3d08eff09b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "365b15a50fee6fdb"
+            }
           }
         ]
       }
@@ -165,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5bbdd3d07422104",
+  "active": "6ecceadbc994943d",
   "lastOpenFiles": [
     "Computer Science.md",
     "Chemistry.md",
