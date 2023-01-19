@@ -78,5 +78,4 @@
 * The material is sorted as the heaviest material was deposited first
 * Rocks hit together and rounded eachother, called attrition
 * Further rounding occurs due to large rocks rolling along riverbed (Traction)
-
-## Land Use
+* 
