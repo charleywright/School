@@ -29,7 +29,10 @@
 * The river beach is made up of materials that the river has been carrying that have been deposited due to the inside of a bend having much slower flow rate and less energy
 
 #### Formation of ox-bow lake
-* Ox-bow lakes form in the lower course of a river where flood plain sediment is reworked through lateral erosion, causing the shape and path of that stretch of river to be ever-changing
-* They are formed where a pre-existing 
+* Ox-bow lakes form in the lower course of a river where flood plain sediment is reworked through lateral erosion, where a meander already exists.
 * Erosive processes include hydraulic action and abrasion (EXPLAIN)
-* 
+* Maximum erosion takes place on the outside of river bends as this is where water is flowing the fastest
+* As the outside of river bends continue to erode, the "neck" narrows over time
+* Eventually (commonly during a flood due to the increased flow rate and energy of the river) the river breaks through the neck, forming a more direct route.
+* Eddies form at the entrance and exit of the old meander, which slow the flow of water causing it to deposit sediment.
+* The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
