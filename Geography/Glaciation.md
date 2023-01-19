@@ -42,15 +42,13 @@
 
 ##### Hanging Valley
 * **Most marks are from u-shaped valley**
+* 
 * Tributary streams/valleys have much less power therefore don't erode as deep
 * After glacier retreats, tributary streams form waterfalls where they enter main valley
 
-##### Truncated Spurs (TODO: Need more info)
-* **Most marks are again from u-shaped valley**
-
-##### Ribbon Loch (Loch Avon, Cairngorms)
+##### Ribbon Lake/Loch (Loch Avon, Cairngorms)
 * **Most marks are yet again from u-shaped valley**
-
+* Formed behind terminal moraine because the terminal moraine acts like a natural dam keeping the water back
 
 ## Depositional Features
 **Material deposits can be**
