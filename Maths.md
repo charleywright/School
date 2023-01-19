@@ -22,3 +22,6 @@ $$3x=270\degree, 3x=390\degree$$
 $$x=90\degree, x=130\degree$$
 $$x=10\degree, x=90\degree, x=130\degree$$
 
+1. Rearrange to get the trig on it's own
+2. Use exact values in non-calc or calculator to find $$\sin^{-1}(\frac{1}{2})=30\degree$$
+3. Use the CAST diagram. 
