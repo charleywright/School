@@ -1,6 +1,7 @@
 [
   "table-editor-obsidian",
   "obsidian-mind-map",
-  "cm-typewriter-scroll-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-split",
+  "obsidian-desmos"
 ]
