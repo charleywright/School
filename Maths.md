@@ -10,6 +10,6 @@ f(x)=3x^2+24x+50
 
 ##### Trig Equations
 **The simple ones**
-```
-
-```
+$$\sqrt(2)*cos(x)+1=0$$
+$$cos(x)=\frac{-1}{\sqrt(2)}$$
+$$x=\frac{3\pi}{4}, x=\frac{5\pi}{4}$$
