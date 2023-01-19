@@ -12,4 +12,7 @@ f(x)=3x^2+24x+50
 **The simple ones**
 $$\sqrt(2)*cos(x)+1=0$$
 $$cos(x)=\frac{-1}{\sqrt(2)}$$
-$$x=\frac{3\pi}{4}, x=\frac{5\pi}{4}$$
+$$x =\frac{3\pi}{4}, x=\frac{5\pi}{4}$$
+
+**The harder ones**
+$$2sin(3x-60)\degree+1=0, 0 \le x < 180$$
