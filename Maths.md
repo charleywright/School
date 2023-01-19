@@ -7,3 +7,9 @@ left=-40; right=40; top=400; bottom=-400;
 f(x)=x^3+12x^2+50x-11
 f(x)=3x^2+24x+50
 ```
+
+##### Trig Equations
+**The simple ones**
+```
+
+```
