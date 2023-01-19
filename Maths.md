@@ -7,6 +7,7 @@ left=-40; right=40; top=400; bottom=-400;
 f(x)=x^3+12x^2+50x-11
 f(x)=3x^2+24x+50
 ```
+<br/>
 
 ##### Trig Equations
 **The simple ones**
@@ -38,4 +39,5 @@ $$x=0.616, x=2.53, x=3.76, x=5.67$$
 
 1. Rearrange same as before to get the trig on it's own
 2. Use a calculator to remove the trig $$cos^{-1}(\frac{1}{3})=1.231$$
-3. Because the fraction was positive we are going to use the normal CAST values, All and Cos, giving $$2x=1.231, 2x=2\pi-1.231$$ We can then re
+3. Because the fraction was positive we are going to use the normal CAST values, All and Cos, giving $$2x=1.231, 2x=2\pi-1.231$$ We can then simplify to get $x$ on it's own, then look to the period to find our final solutions
+4. We initially had $2x$, so our period is $2\pi/2=\pi$ which we need to account for so we add $\pi$ until we go out of the given domain $$x=0.616, x=2.53, x=0.616+\pi, x=2.53+\pi$$ $$x=0.616, x=2.53, x=3.76, x=5.67$$
