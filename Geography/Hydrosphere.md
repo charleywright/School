@@ -1,8 +1,8 @@
 ## Rivers
 #### Erosion (Common between all)
-**Hydraulic Action** - abc
-**Abrasion** - def
-**Solution** - ghi
+**Hydraulic Action** - Water forces air into cracks in the rock which exherts pressure on the rock, causing it to crack and break away. The physical force of the water alone can also be enough to weaken and break away rock
+**Abrasion** - Rock in the water hits and grinds against the banks/riverbed, acting like sandpaper to erode the rock
+**Solution** - Water dissolves some of the minerals in rocks, weathering them
 
 #### Formation of V-shaped valley
 * Steep slopes in the upper course give the river a lot of energy
@@ -18,9 +18,13 @@
 * The river continues to erode below the overhand, cutting further inward and deepening the river in that area, creating a plunge pool
 * The unsupported overhang eventually collapses into the plung pool where it is broken up and used in abrasion for further erosion
 * Some rock will continue downstream as bedload
-* This cycle continues, with the waterfall slowly cutting upstream, forming a gor
+* This cycle continues, with the waterfall slowly moving upstream, cutting a gorge into the landscape
 
 #### Formation of meander
-
+* Formed where rivers lose power and begin eroding laterally in the middle course
+* They do this through abtrasion and hydraulic action
+* Erosion is greatest on the outide of the river bends as this is where the flow of water is the fastest
+* As water hits the outside of the bend it is forced under and along the riverbed to the opposite side of the river. This forms a spiral and is called helicoidal flow
+* 
 
 #### Formation of ox-bow lake
