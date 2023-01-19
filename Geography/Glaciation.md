@@ -66,11 +66,11 @@
 
 #### Drumlin
 * Formed from material dumped by a glacier therefore rough, jagged from plucking & freeze-thaw
-* Formed where a pre-existing "hook" was which catches material 
-* Material is dumped as the glacier loses power therefore unsorted
-* Steep side called Stoss, Gentle side called Lee
+* Commonly formed on top of a pre-existing obstacle as it acts like a trigger point and material builds up around it 
+* Glacier becomes overloaded with material and must deposit some 
+* Steep side called Stoss facing upstream, Gentle side called Lee facing downstream, indicating the direction the glacier was travelling
 * Elongated mound as material was deposited then glacier continued moving, dragging out the material forming Lee slope
-* Often found in swarms like a basket of eggs
+* Often found in swarms / in a "basket of eggs" topography
 
 #### Esker
 * Found after a glacier as material has been carried by a metlwater (fluvioglacial) stream
