@@ -1,4 +1,5 @@
 {
   "showUnsupportedFiles": true,
-  "livePreview": false
+  "livePreview": false,
+  "promptDelete": false
 }
