@@ -20,8 +20,3 @@ $$sin(3x-60)=\frac{-1}{2}$$
 $$3x-60=210\degree, 3x-60=330\degree$$
 $$3x=270\degree, 3x=390\degree$$
 $$x=90\degree, x=130\degree$$
-
-```desmos-graph
----
-2*\sin(3x-60)+1=0,0 \e x
-```
