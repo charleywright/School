@@ -54,7 +54,11 @@
 
 ## Depositional Features
 #### Terminal Moraine
+* Caused by glacier losing energy and discarding material (temperature rising as altitude decreases and/or temperature in surrounding area increasing)
+* Barrier across the floor of U-Shaped valley
+* Sharp, unsorted material
 
 #### Drumlin
+* **Same first point as terminal moraine**
 
-#### 
+#### Esker
