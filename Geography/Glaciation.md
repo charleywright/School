@@ -58,16 +58,16 @@
 - **Fluvioglacial(Meltwater) Deposits**: Sediment deposited by meltwater stream. Sorted by size as heavier material is deposited first, often in layers (stratified). Rocks are rounded, with rounded gravel and sand too due to attrition (rocks hitting eachother and rounding eachother)
 
 #### Terminal Moraine
-* Caused by glacier losing energy and discarding material (temperature rising as altitude decreases and/or temperature in surrounding area increasing)
-* Barrier across the floor of U-Shaped valley
-* Glacier was pushing this material before losing energy and retreating, left this material behind
-* Unsorted material as it was dumped by the ice
-* Sharp, angular material from plucking/freeze-thaw
+* Barrier formed from one side to the other across a u-shaped valley floor at the furthest point a glacier reached
+* Made of unsorted material as it was being pushed by the glacier before being deposited
+* Material is rough and jagged as it came from plucking/freeze-thaw and was carried by the glacier
+* The glacier
 
 #### Drumlin
 * Formed from material dumped by a glacier therefore rough, jagged from plucking & freeze-thaw
 * Commonly formed on top of a pre-existing obstacle as it acts like a trigger point and material builds up around it 
-* Glacier becomes overloaded with material and must deposit some 
+* Glacier becomes overloaded with material and must deposit some similar to how a river deposits material
+* The glacier often becomes overloaded due to temperatures increasing causing ice to melt. Could be because of temperatures increasing as altitude decreases and/or surrounding area warming up
 * Steep side called Stoss facing upstream, Gentle side called Lee facing downstream, indicating the direction the glacier was travelling
 * Elongated mound as material was deposited then glacier continued moving, dragging out the material forming Lee slope
 * Often found in swarms / in a "basket of eggs" topography
