@@ -66,11 +66,15 @@ Bigger bus -> More data can be sent/received in one trip
 32bit to 64bit -> Double the data transferred at one time (4 bytes to 8 bytes)
 
 **Cache memory**
-* L1 cache is built 
-* L2 
+* L1 cache is built into each core (every core has its own cache)
+* L2 cache is commonly shared between some/all cores however high end CPUs may have seperate L2 caches for each core (5950X has 512K per core)
+* L3 cache depends on the processor and may not exist. It is shared between cores
+* If one CPU has more Ln cache than another CPU, it will run faster because it can cache more instructions therefore hits are more likely
 
 **Clock speed**
-
+* How many clock cycles are performed per second
+* 3.4gHz -> 3.4 billion cycles per second
+* 
 
 ## Data Representation
 #### Two's Complement
