@@ -108,10 +108,17 @@ The decimal point (indicated by the blank column) starts at the second column (3
 This means the mantissa is 111101111 and the exponent is 110, or $1.11101111*2^{110}$
 
 **Another example**
-Represent 97.65625
-| 64  | 32  | 16  | 8   | 4   | 2   | 1   |     | 1/2 | 1/4 | 1/8 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 1   | 0   | 0   | 0   | 0   | 1   |     | 1   | 0   |  1  |
+Represent 225.65625
+| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |     | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---- |
+|  1  | 1   | 1   | 0   | 0   | 0   | 0   | 1   |     | 1   | 0   | 1   | 0    |  1   |
+
+The decimal point has an offset of 7
+|  4  |  2  |  1  |
+| --- | --- | --- |
+|  1  |  1  |  1  |
+
+This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110101*2^{110}$
 
 #### Unicode
 
