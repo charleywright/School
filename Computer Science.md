@@ -89,8 +89,14 @@ $$-2^{n-1} \le x \le 2^{n-1}-1$$
 
 #### Floating point numbers
 * Split into mantissa and exponent
-$$123.75 = 1.2375 * 10^{2}, m=1.2375, e=$$
+$$123.75 = 1.2375 * 10^{2}, m=1.2375, e=2$$
+* Increasing range decreases accuracy (increasing exponent bits)
+* Increasing accuracy decreases range (increasing mantissa bits)
 
+**Converting Numbers**
+| 64  | 32  | 16  | 8   | 4   | 2   | 1   | *   | 1/2 | 1/4 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  1  |  1  |     |     |     |     |     |     |     |     |
 
 #### Unicode
 
