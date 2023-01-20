@@ -79,6 +79,10 @@ Bigger bus -> More data can be sent/received in one trip
 
 ## [Data Representation](https://www.bbc.co.uk/bitesize/guides/zsnbr82/revision/1)
 #### Two's Complement
+**Converting denary to binary**
+1. Work out the positive number (for -26 find 26)
+2. XOR with a full mask (flip all the bits, 1 becomes 0, 0 becomes 1)
+3. Add 1
 
 #### Floating point numbers
 
