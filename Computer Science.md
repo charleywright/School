@@ -1,5 +1,8 @@
 ## Development methodologies
 #### Iterative Development
+* Break down large problems into smaller parts
+* Assign small chunks to individual developers
+* Design, Develop, Test, Repeat
 
 #### Agile methodologies
 
