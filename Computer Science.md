@@ -1,5 +1,5 @@
 ## Development methodologies
-#### [Iterative Development(https://www.techtarget.com/searchsoftwarequality/definition/iterative-development)
+#### [Iterative Development](https://www.techtarget.com/searchsoftwarequality/definition/iterative-development)
 * Break down large problems into smaller parts
 * Assign small chunks to individual developers
 * Design, Develop, Test, Repeat
@@ -15,7 +15,7 @@
 8.  Sustainable development, able to maintain a constant pace.
 9.  Continuous attention to technical excellence and good design.
 10.  Simplicity—the art of maximizing the amount of work not done—is essential.
-11.  Best [architectures](https://en.wikipedia.org/wiki/Agile_Architecture "Agile Architecture"), requirements, and designs emerge from self-organizing teams.
+11.  Best architectures, requirements, and designs emerge from self-organizing teams.
 12.  Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
 ## [Environmental Impact](https://www.bbc.co.uk/bitesize/guides/zwg987h/revision/2)
