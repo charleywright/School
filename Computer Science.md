@@ -58,6 +58,8 @@ GPS can alert lighting and heating systems to control devices depending on posit
 #### System Performance
 **No. Cores**
 More cores -> More tasks can be run in parallel -> Faster execution
+Each core contains an ALU (Arithmetic Unit), control unit and registers
+Does not scale linearly, threads need to sync (std::mutex, std::conditional_variable)
 
 **Width of data bus**
 Bigger bus -> More data can be sent/received in one trip
