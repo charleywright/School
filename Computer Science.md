@@ -21,14 +21,25 @@
 ## Environmental Impact
 #### Heating systems
 **Activity Sensors**
-Change temperatures depending on the number of people in a room
-Disable heating if rooms are empty
-Learn patters of activity to preheat rooms
+* Change temperatures depending on the number of people in a room
+* Disable heating if rooms are empty
+* Learn patters of activity to preheat rooms
 
 **Smart thermostats**
+* Connected to a network
+* Manually or automatically controlled using mobile devices
+	* Control heating systems without being home
 
+**Benefits**
+* Only heating when necessary
+* Reduces carbon footprint
 
 #### Traffic control
+* Vehicles are considered one of the main contribution sources of greenhouse gas
+* Road transport causes 15% of all C02 emissions
+* More fuel consumed when starting & stopping such as within a city
+* Intelligent systems use software & hardware to improve efficiency
+* 
 
 #### Car management systems
 
