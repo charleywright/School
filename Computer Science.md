@@ -127,8 +127,13 @@ This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110
 #### Bitmap vs Vector based graphics
 **Bitmaps**
 * Bitmaps store each pixel of an image individually
+* An image has a bit depth, which is how many bits are used per pixel (8 bit color -> 256 colors, 24 bit color -> 16+ million colors). 16bit is known as "true color"
 * They do not scale well, becoming blurry or blocky as they are resolution dependant
 * They are stored using a 2D array structure
+* JPEG, PNG, GIF are commonly used alongside compression
+
+**Vector Graphics**
+* 
 
 ## Design
 #### Structure Diagram
