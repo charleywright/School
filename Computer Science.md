@@ -131,9 +131,15 @@ This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110
 * They do not scale well, becoming blurry or blocky as they are resolution dependant
 * They are stored using a 2D array structure
 * JPEG, PNG, GIF are commonly used alongside compression
+* Ignoring compression, adding/removing detail will not change the file size
 
 **Vector Graphics**
-* 
+* Vector graphics are a set of instructions detailing how to draw an image
+* They scale infinitely, small or large
+* Layering does not lose data underneath as layers are simply drawn on top of eachother (in the file, not necessarily the implementation)
+* Adding/removing detail will change the file size
+* Very difficult to store a highly detailed image such as a photo and will produce very large files
+* SVG is the most common format
 
 ## Design
 #### Structure Diagram
