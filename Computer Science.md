@@ -1,10 +1,10 @@
 ## Development methodologies
-#### Iterative Development
+#### [Iterative Development(https://www.techtarget.com/searchsoftwarequality/definition/iterative-development)
 * Break down large problems into smaller parts
 * Assign small chunks to individual developers
 * Design, Develop, Test, Repeat
 
-#### Agile methodologies
+#### [Agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development)
 1.  Customer satisfaction by early and continuous delivery of valuable software.
 2.  Welcome changing requirements, even in late development.
 3.  Deliver working software frequently (weeks rather than months).
@@ -18,7 +18,7 @@
 11.  Best [architectures](https://en.wikipedia.org/wiki/Agile_Architecture "Agile Architecture"), requirements, and designs emerge from self-organizing teams.
 12.  Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
-## Environmental Impact
+## [Environmental Impact](https://www.bbc.co.uk/bitesize/guides/zwg987h/revision/2)
 #### Heating systems
 **Activity Sensors**
 * Change temperatures depending on the number of people in a room
@@ -39,9 +39,18 @@
 * Road transport causes 15% of all C02 emissions
 * More fuel consumed when starting & stopping such as within a city
 * Intelligent systems use software & hardware to improve efficiency
-* 
+* Cameras, Sensors, Traffic signals are used to try keep traffic moving
+* Stellite data can guide away from traffic
 
 #### Car management systems
+**Start-stop system**
+Turns off and on engine automatically to reduce idling time thus emissions
+
+**Engine control units**
+Use sensors to control the air/fuel ratio perfectly
+
+**GPS sensors**
+GPS 
 
 ## Computer Structure
 #### Fetch-Execute Cycle
