@@ -84,7 +84,13 @@ Bigger bus -> More data can be sent/received in one trip
 2. XOR with a full mask (flip all the bits, 1 becomes 0, 0 becomes 1)
 3. Add 1
 
+**Range**
+$$-2^{n-1} \le x \le 2^{n-1}-1$$
+
 #### Floating point numbers
+* Split into mantissa and exponent
+$$123.75 = 1.2375 * 10^{2}, m=1.2375, e=$$
+
 
 #### Unicode
 
