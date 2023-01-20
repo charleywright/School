@@ -63,10 +63,14 @@ Does not scale linearly, threads need to sync (std::mutex, std::conditional_vari
 
 **Width of data bus**
 Bigger bus -> More data can be sent/received in one trip
+32bit to 64bit -> Double the data transferred at one time (4 bytes to 8 bytes)
 
 **Cache memory**
+* L1 cache is built 
+* L2 
 
 **Clock speed**
+
 
 ## Data Representation
 #### Two's Complement
