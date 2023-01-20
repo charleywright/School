@@ -44,3 +44,41 @@
 #### Breakpoints
 
 #### Watchpoints
+
+## Web
+#### HTML
+* nav
+* header
+* footer
+* section
+* main
+* form
+	* input
+		* text
+		* number
+		* textarea
+		* radio
+		* submit
+	* select
+* id attribute
+
+#### CSS
+* display (block, inline, none)
+* float (left, right)
+* clear (both)
+* margins/padding
+* sizes (height, width)
+
+**Nav bars**
+* list-style-type: none
+* hover
+
+#### JS
+* onmouseover
+* onmouseout
+* onclick
+
+**Data validation**
+* Length
+* Presence
+* Range
