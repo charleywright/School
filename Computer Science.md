@@ -50,15 +50,17 @@ Turns off and on engine automatically to reduce idling time thus emissions
 Use sensors to control the air/fuel ratio perfectly
 
 **GPS sensors**
-GPS 
+GPS can alert lighting and heating systems to control devices depending on position automatically
 
-## Computer Structure
+## [Computer Structure](https://www.bbc.co.uk/bitesize/guides/zr8kt39/revision/1)
 #### Fetch-Execute Cycle
 
 #### System Performance
 **No. Cores**
+More cores -> More tasks can be run in parallel -> Faster execution
 
 **Width of data bus**
+Bigger bus -> More data can be sent/received in one trip
 
 **Cache memory**
 
