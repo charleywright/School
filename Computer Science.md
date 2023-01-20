@@ -121,9 +121,14 @@ The decimal point has an offset of 7
 This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110101*2^{110}$
 
 #### Unicode
-* Original ASCII used 7 bits. The 8th bit has had plenty of use but there is not one cohesive standard. In extended ASCII it is used to represent more characters however it can also be used for parity checking. ASCI
+* Original ASCII used 7 bits. The 8th bit has had plenty of use but there is not one cohesive standard. In extended ASCII it is used to represent more characters however it can also be used for parity checking. ASCII and extended ASCII are both limited in the number of characters they can represent, making them unable to store other languages or less popular symbols therefore Unicode was created
+* Unicode can use 8, 16, or 32 bit encoding depending on the number of characters needed, and aims to represent every character needed to write in any language. The tradeoff is of course unicode takes more memory to store the same characters
 
 #### Bitmap vs Vector based graphics
+**Bitmaps**
+* Bitmaps store each pixel of an image individually
+* They do not scale well, becoming blurry or blocky as they are resolution dependant
+* They are stored using a 2D array structure
 
 ## Design
 #### Structure Diagram
