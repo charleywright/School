@@ -74,9 +74,10 @@ Bigger bus -> More data can be sent/received in one trip
 **Clock speed**
 * How many clock cycles are performed per second
 * 3.4gHz -> 3.4 billion cycles per second
-* 
+* Higher clock speeds produce more heat and require more energy
+* Theoretical overclock limits exist: If the clock speed is too high an instruction may not finish executing before the next is called, corrupting memory
 
-## Data Representation
+## [Data Representation](https://www.bbc.co.uk/bitesize/guides/zsnbr82/revision/1)
 #### Two's Complement
 
 #### Floating point numbers
