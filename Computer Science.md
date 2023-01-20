@@ -94,11 +94,20 @@ $$123.75 = 1.2375 * 10^{2}, m=1.2375, e=2$$
 * Increasing accuracy decreases range (increasing mantissa bits)
 
 **Converting Numbers**
-| 64  | 32  | 16  | 8   | 4   | 2   | 1   | *   | 1/2 | 1/4 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  1  |  1  |     |     |     |     |     |     |     |     |
+Represent 123.75 in binary
 
-#### Unicode
+| 64  | 32  | 16  | 8   | 4   | 2   | 1   |     | 1/2 | 1/4 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  1  |  1  |  1  |  1  |  0  |  1  |  1  |     |  1  |  1  |
+
+The decimal point (indicated by the blank column) starts at the second column (32 in the above table). If it is not in this position it's offset needs to be found, which for the above table would be 6 (it is 6 columns to the right) making the exponent 6:
+| 4   | 2   | 1   |
+| --- | --- | --- |
+|  1  |  1  |  0  |
+
+This means the mantissa is 111101111 and the exponent is 110, or $1.11101111$
+
+###$# Unicode
 
 #### Bitmap vs Vector based graphics
 
