@@ -105,9 +105,15 @@ The decimal point (indicated by the blank column) starts at the second column (3
 | --- | --- | --- |
 |  1  |  1  |  0  |
 
-This means the mantissa is 111101111 and the exponent is 110, or $1.11101111$
+This means the mantissa is 111101111 and the exponent is 110, or $1.11101111*2^{110}$
 
-###$# Unicode
+**Another example**
+Represent 97.65625
+| 64  | 32  | 16  | 8   | 4   | 2   | 1   |     | 1/2 | 1/4 | 1/8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 1   | 0   | 0   | 0   | 0   | 1   |     | 1   | 0   |  1  |
+
+#### Unicode
 
 #### Bitmap vs Vector based graphics
 
