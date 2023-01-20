@@ -121,6 +121,7 @@ The decimal point has an offset of 7
 This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110101*2^{110}$
 
 #### Unicode
+* Original ASCII used 7 bits. The 8th bit has had plenty of use but there is not one cohesive standard. In extended ASCII it is used to represent more characters however it can also be used for parity checking. ASCI
 
 #### Bitmap vs Vector based graphics
 
