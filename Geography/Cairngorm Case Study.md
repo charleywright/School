@@ -17,7 +17,18 @@ Estates want to keep deer numbers high to increase their value and provide anima
 ##### Management
 Deer numbers can be removed through culling. Deer numbers are controlled through Deer Management Groups which bring local estates together with government advisors. These aim to reach agreement over deer numbers through discussion and compromise. The National Park also develops its own policy on deer management (the Deer Framework for the Cairngorms National Park)
 
+##### Evaluation
+Managing deer numbers is still a cause of conflict in the Park. The Park has included ambitious targets t encourage woodland regeneration by decreasing deer numbers to help climate change and many estates and estate workers disagree with this
+
 ## Dog owners and Capercaillie
+##### Conflict
+Capercaillie are under threat in Scotland with only 1200 individuals and 80% of them in the National Park. They are dying due to colliding with deer dences, disturbance bypeple and uncontrolled dogs killing chicks and adults
+
+##### Management
+The CNPA (Cairngorms National Park Authority) funds a ranger service to engage wih dog owners and encourage them to behave responsibly. The CNPA advises land owners on how to help capercaillie. They have created a Core Paths Plan to encourage the public to avoid key areas during the breeding season.
+
+##### Evaluation
+Capercaillie numbers are still declining and so success has been limited. The increasing populatiry of the Park has meant more and more people using the forests where birds live. 
 
 ## Housing development and conservation
 
