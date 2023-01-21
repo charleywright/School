@@ -28,8 +28,10 @@ Capercaillie are under threat in Scotland with only 1200 individuals and 80% of 
 The CNPA (Cairngorms National Park Authority) funds a ranger service to engage wih dog owners and encourage them to behave responsibly. The CNPA advises land owners on how to help capercaillie. They have created a Core Paths Plan to encourage the public to avoid key areas during the breeding season.
 
 ##### Evaluation
-Capercaillie numbers are still declining and so success has been limited. The increasing populatiry of the Park has meant more and more people using the forests where birds live. 
+Capercaillie numbers are still declining and so success has been limited. The increasing populatiry of the Park has meant more and more people using the forests where birds live. New housing has also meant that key capercaillie areas are used more often. Ranger services have helped but they can only do so much to help
 
 ## Housing development and conservation
+##### Conflict
+As increasing numbers of houses are being built in the National Park the land available for the habitat of species such as capercaillie, wild cats, pine martins etc are reduced. Due to the popularity of living in the Park, house prices are very high and local young people can't afford them. Many new houses are bought as holiday homes therefore aren't available as housing. People holidaying in these houses do not contribute to the local economy and community in the same way someone living there would (they do not support local businesses, instead using supermarkets and bringing items they need). New housing estates have a negative impact on the landscape of the National Park e.g Upper Burnside, Aviemore
 
 ## Camper vans and locals
