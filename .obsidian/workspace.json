@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0d249fcceaa148",
+        "id": "63796b5675c0195b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7864f35c90493bb",
+            "id": "d22be767bba7a344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Cairngorm Case Study.md",
+                "file": "Computer Science.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "e1b0745c10907f5f"
-          }
-        ]
-      },
-      {
-        "id": "153069e8b55459e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "22d6b87f349c2fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Cairngorm Case Study.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "e1b0745c10907f5f"
+            }
           }
         ]
       }
@@ -89,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Cairngorm Case Study.md",
+                "file": "Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Cairngorm Case Study.md",
+                "file": "Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Cairngorm Case Study.md"
+                "file": "Computer Science.md"
               }
             }
           }
@@ -165,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7864f35c90493bb",
+  "active": "d22be767bba7a344",
   "lastOpenFiles": [
-    "Geography/Lithosphere - Glaciation.md",
+    "Computer Science.md",
     "Geography/Cairngorm Case Study.md",
+    "Geography/Lithosphere - Glaciation.md",
     "Geography/The Sahel Case Study.md",
     "Untitled.md",
     "Geography/Mumbai Case Study.md",
     "Geography/Hydrosphere.md",
     "Geography/Biosphere.md",
     "Maths.md",
-    "Computer Science.md",
     "Chemistry.md"
   ]
 }
