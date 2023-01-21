@@ -42,3 +42,4 @@ In Boat of Garten a planneed development of 72 houses was scaled down to 32 hous
 
 ## Camper vans and locals
 ##### Conflict
+Van numbers increased significantly since lockdown. The increased number of vans parked on verges decreases the appeal of the area as they are ugly and cause congestion. Campers parking on peoples driveways causing them to be blocked in or in front of their houses
