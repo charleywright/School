@@ -42,4 +42,10 @@ In Boat of Garten a planneed development of 72 houses was scaled down to 32 hous
 
 ## Camper vans and locals
 ##### Conflict
-Van numbers increased significantly since lockdown. The increased number of vans parked on verges decreases the appeal of the area as they are ugly and cause congestion. Campers parking on peoples driveways causing them to be blocked in or in front of their houses
+Van numbers increased significantly since lockdown. The increased number of vans parked on verges decreases the appeal of the area as they are ugly and cause congestion. Campers parking on peoples driveways causing them to be blocked in or in front of their houses. Van users also create campfires on vulnerable soils that leave scars on the landscape for many years. Many van users buy their supplies in larger cities and from supermarkets as they are cheaper instead of supporting local businesses, meaning they create problems and give very little in return.
+
+##### Management
+HIE (Highlands and Islands Enterprise) have created a new camper van parking area in Coire na Ciste in the Cairngorms Ski Area. Van users are charged £15 a night to use it. The hope is it will draw camper vans away from roadside parking and also generate income for the ski area. The National Park is also trying to inform van users aboiut the impact they are having and encourage them to give back more through social media and free advertising.
+
+##### Effectiveness
+Although seemingly sensible, the facilities provided at Coire na Ciste are very ba
