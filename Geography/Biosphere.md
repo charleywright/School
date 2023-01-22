@@ -37,4 +37,10 @@
 * Three well defined layers in Ao horizon: Leaf litter, fermentation layer, peaty acidic mor humus
 * Dark greyish brown silty A horizon. Some red-brown mottling along root channels
 	* Lack of access to oxygen because of waterlogging, so oxygen is taken from iron compounds creating grey/blue/green color
-* 
+* Sticky clay-like waterlogged blue-grey B horizon with some pockets of red mottling
+* Few biota due to anaerobic conditions
+	* Caused by lack of drainage and high precipitation
+* Found on valley floors
+	* Water drains into this soil, increasing waterlogging
+* Precipitation is much greater than evaporation due to location and lack of drainage
+* C horizon is impermeable clay/permafrost
