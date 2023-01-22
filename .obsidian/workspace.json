@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "Geography/Biosphere.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -177,6 +176,7 @@
   },
   "active": "66935896995a07ae",
   "lastOpenFiles": [
+    "Geography/Brown Earth Diagram.png",
     "Geography/Biosphere.md",
     "Computer Science.md",
     "Geography/Cairngorm Case Study.md",
@@ -185,7 +185,6 @@
     "Untitled.md",
     "Geography/Mumbai Case Study.md",
     "Geography/Hydrosphere.md",
-    "Maths.md",
-    "Chemistry.md"
+    "Maths.md"
   ]
 }

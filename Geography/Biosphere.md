@@ -1,4 +1,5 @@
 ## Brown Earth
+![[]]
 * Deciduous vegetation
 * Deep leaf litter (from deciduous trees) and fermentation layer above humus
 	* Decomposition and fermentation occurs quickly due to mild climate
@@ -15,12 +16,6 @@
 * Horizons are not clearly defined due to long roots, some leaching and large number of biota
 
 ## Podsol
-#### Describe
-Acidic mor humus
-
-#### Explain
+![[Podsol Diagram.png]]
 
 ## Gley
-#### Describe
-
-#### Explain
