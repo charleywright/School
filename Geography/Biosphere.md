@@ -1,5 +1,5 @@
 ## Brown Earth
-![Brown Earth Diagram](Geography/Brown Earth Diagram.png)
+![Brown Earth Diagram](/Geography/Brown Earth Diagram.png)
 * Deciduous vegetation
 * Deep leaf litter (from deciduous trees) and fermentation layer above humus
 	* Decomposition and fermentation occurs quickly due to mild climate
@@ -16,7 +16,7 @@
 * Horizons are not clearly defined due to long roots, some leaching and large number of biota
 
 ## Podsol
-![Podsol Diagram](Geography/Podsol Diagram.png)
+![Podsol Diagram](/Geography/Podsol Diagram.png)
 
 ## Gley
-![Gley Diagra,](Geography/Gley Diagram.png)
+![Gley Diagra,](/Geography/Gley Diagram.png)
