@@ -33,3 +33,8 @@
 
 ## Gley
 ![Gley Diagram](https://github.com/charleywright/School/blob/master/Geography/Gley%20Diagram.png)
+* Wet loving species like reeds, moss, lichens
+* Three well defined layers in Ao horizon: Leaf litter, fermentation layer, peaty acidic mor humus
+* Dark greyish brown silty A horizon. Some red-brown mottling along root channels
+	* Lack of access to oxygen because of waterlogging, so oxygen is taken from iron compounds creating grey/blue/green color
+* 
