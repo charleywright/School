@@ -1,10 +1,10 @@
 ## Brown Earth
-![Brown Earth Diagram](/Geography/Brown Earth Diagram.png)
+![Brown Earth Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Brown%20Earth%20Diagram.png)
 * Deciduous vegetation
 * Deep leaf litter (from deciduous trees) and fermentation layer above humus
 	* Decomposition and fermentation occurs quickly due to mild climate
 * Thick and fertile Ao horizon with well-mixed layers. Dark in colour. Mull (slightly acidic humus layer)
-	* Well mixed due to large number of organisms present
+	* Well mixed due to large number of organisgms present
 * Dark brown A horizon enriched with nutrients. Loamy texture
 	* Mixed with humus layer because soil biota. Well aerated as a result
 * Lighter brown B horizon with long roots to reach minerals
