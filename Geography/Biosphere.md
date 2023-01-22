@@ -17,6 +17,19 @@
 
 ## Podsol
 ![Podsol Diagram](https://github.com/charleywright/School/blob/master/Geography/Podsol%20Diagram.png)
+* coniferous forest with shallow roots reaching into A layer
+* Leaf litter made up of decaying needles, cones and other waxy vegetation
+* Shallow acidic mor humus layer with leaf litter & fermentation
+	* Thin due to lack of decomposition (very slow) due to low temperatures and lack of organisms
+* Grey sandy/gritty eluviated A horizon
+	* Higher precipitation thatn evaporation causes leaching, iron and minerals are washed into B layer
+* Reddish brown B horizon
+	* Minerals and iron are illuviated into this later, giving rusty red/brown color
+* Iron pan may frm lower in the profile causing drainage issues
+* Can have waterlogged soil
+* Snow melt can cause further drainage issues
+* Found on steep slopes which further increases leaching with shallow roots not reaching leached minerals
+* Limited biota due to low temperature, high precipication, tough leaf litter & eluviated minerals
 
 ## Gley
 ![Gley Diagram](https://github.com/charleywright/School/blob/master/Geography/Gley%20Diagram.png)
