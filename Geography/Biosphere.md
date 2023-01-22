@@ -9,14 +9,14 @@
 	* Mixed with humus layer because soil biota. Well aerated as a result
 * Lighter brown B horizon with long roots to reach minerals
 * Slight iron pan could form
-	* Some leaching occurs if precipication is greater than evaporation but this is a gradual process
+	* Some leaching occurs if precipication is greater than evaporation but this is a gradual process\
 * Deepest tree roots can reach into C horizon to find nutrients as the soil is so well mixed
 * Good drainage due to deep roots
 * Mild climate with balanced precipitation and evaporation
 * Horizons are not clearly defined due to long roots, some leaching and large number of biota
 
 ## Podsol
-![Podsol Diagram](/Geography/Podsol Diagram.png)
+![Podsol Diagram](https://github.com/charleywright/School/blob/master/Geography/Podsol%20Diagram.png)
 
 ## Gley
-![Gley Diagra,](/Geography/Gley Diagram.png)
+![Gley Diagram](https://github.com/charleywright/School/blob/master/Geography/Gley%20Diagram.png)
