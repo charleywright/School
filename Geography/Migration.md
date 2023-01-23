@@ -6,11 +6,20 @@
 * Other countries do not accept a terrorit organization as a government therefore won't talk or trade causing shortages
 * Many rights for women have been revoked by the Taliban such as a right to education
 * Basic services can be very difficult to access such as vaccines for children
-* Damages to infrastructure 
+* Damages to infrastructure & transport cause issues with getting to work and jobs, causing  unemployment
+
+##### Impact on donor country (Afghanistan)
+* People leaving decrease the number of farmers, leading to food shortages
+* 
 
 ##### Impact on receiving country (Pakistan)
 
+
 ## Voluntary Migration (Poland to the UK)
 ##### Push & pull factors
+
+
+##### Impact on donor country (Poland)
+
 
 ##### Impact on receiving country (The UK)
