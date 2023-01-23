@@ -43,7 +43,10 @@
 1. Evaporation from ocean caused by the sun creates vapour
 	* Could also be from evaporation & transpiration (water evaporating from surface of freen leaves)
 3. Vapour rises and cools, condensing into couds. Clouds move inland due to wind (advection)
-4. Clouds grow too heavy and precipitate
+4. Clouds grow too heavy and precipitate through rain and/or snow
+5. Water enters the ground (inflitration) or is caught on leaves and trees (interception)
+6. Water is stored in lakes and ground water storage
+7. Surface and groundwater flow occurs
 
 ## Drainage basin system
 * Open system (water enters and leaves the system at various points)
