@@ -16,7 +16,7 @@
 * Horizons are not clearly defined due to long roots, some leaching and large number of biota
 
 ## Podsol
-![Podsol Diagram](https://github.com/charleywright/School/blob/master/Geography/Podsol%20Diagram.png)
+![Podsol Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Podsol%20Diagram.png)
 * coniferous forest with shallow roots reaching into A layer
 * Leaf litter made up of decaying needles, cones and other waxy vegetation
 * Shallow acidic mor humus layer with leaf litter & fermentation
