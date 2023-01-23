@@ -83,6 +83,12 @@ The main things to comment on are
 * Peak flow
 In some cases base flow can be compared to storm flow if it is shown
 
+**Overland flow vs Surface flow**
+* Overland flow normally means water flowing across fields/land (flooding)
+* Surface flow normally means water flowing in predefined channels on the surface (rivers, streams etc)
+
+These two terms are commonly interchanged however AFAIK there is no penalization for using the wrong one as long as it is clear
+
 Rising limb shape depends on
 * **Strength of rainfall**: Stronger rain gives less time for soil to soak up water therefore more surface flow occurs
 * **Length of rainfall**: The longer rain continues the more storage will be used and waterlogged soils will become, therefore over time more surface flow will occur
