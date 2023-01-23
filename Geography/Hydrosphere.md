@@ -88,7 +88,13 @@ In some cases base flow can be compared to storm flow if it is shown
 Rising limb shape depends on
 * **Strength of rainfall**: Stronger rain gives less time for soil to soak up water therefore more surface flow occurs
 * **Length of rainfall**: The longer rain continues the more storage will be used and waterlogged soils will become, therefore over time more surface flow will occur
-* 
+* **Condition of the soil**: If the soil is already waterlogged little water will infiltrate and lots of surface flow will occur
+* **Shape of the drainage basin**: If the drainage basin is circular with most tributaries leading to one concentrated place in a wide river the rising limb will be steep because all the water is going to one place compared to if tributaries are spaced out along a thin straight river. The thin river will flow faster, moving runoff quicker
+
+Lag time depends on (surface flow)
+**Condition of the soil**: If the soil is waterlogged a lot of surface flow will occur leading to a shorter lag time
+**Intensity of rain**: More intense rain allows less time for infiltration to occur therefore more surface runoff and a shorter lag time
+**Gradient 
 
 ##### Describe
 
