@@ -10,6 +10,10 @@
 
 ##### Impact on donor country (Afghanistan)
 * People leaving decrease the number of farmers, leading to food shortages
+* Educated people left (e.g doctors & teachers) causing staffing issues in healthcare and education
+	* Worse education to remaining people making it harder to recover and worse healthcare especially for children and poor communities
+* Little funding for law enforcement -> More corruption as people are more likely to accept money
+	* Decreased safety as the Taliban have a foothold in law enforcement allowing them little pushback
 * 
 
 ##### Impact on receiving country (Pakistan)
