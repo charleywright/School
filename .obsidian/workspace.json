@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/The Sahel Case Study.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/The Sahel Case Study.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corrie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,13 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/The Sahel Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/The Sahel Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Hydrosphere.md"
+                "file": "Geography/The Sahel Case Study.md"
               }
             }
           }
@@ -167,15 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c237ad7e9f122f9c",
+  "active": "a493f8587228bd55",
   "lastOpenFiles": [
-    "Geography/Lithosphere - Glaciation.md",
-    "Geography/Hydrosphere.md",
-    "Geography/Migration.md",
     "Geography/Mumbai Case Study.md",
     "Geography/The Sahel Case Study.md",
-    "Geography/Global Hydrological Cycle.png",
     "Geography/Cairngorm Case Study.md",
+    "Geography/Hydrosphere.md",
+    "Geography/Lithosphere - Glaciation.md",
+    "Geography/Migration.md",
+    "Geography/Global Hydrological Cycle.png",
     "Geography/Biosphere.md",
     "README.md",
     "push.md"

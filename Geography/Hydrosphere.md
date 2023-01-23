@@ -51,7 +51,9 @@ The global hydrological cycle describes how water moves around the world and is 
 * Dams and resevoirs can regulate the flow of water, reducing spikes and decreasing peak flow. Straightening and clearing rivers (dredging) allows water to flow faster
 
 **Physical**
-* 
+* Precipitation (amount, intensity, frequency, duration) greatly affects how much water enters the system
+* Some soil types absorb less water than others (waterlogged soil like gley)
+* Steeply sloped land causes faster runoff with less time for inflitration
 
 ##### Describe
 1. Evaporation from ocean caused by the sun creates vapour
@@ -142,7 +144,4 @@ B) Gentler rising limb, long and gentle falling limb, longer lag time, lower pea
 | Urban                | Rural             |
 | Intense thunderstorm | Light steady rain |
 
-##### Describe
-
-
-##### Explain
+These descriptions would then need to be explained
