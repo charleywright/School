@@ -15,10 +15,15 @@
 * Little funding for law enforcement -> More corruption as people are more likely to accept money
 	* Decreased safety as the Taliban have a foothold in law enforcement allowing them little pushback
 * Public services such as roads are less maintained, deterioating quickly and less effective public transport
-* Travel becomes dangerous and expensive, affecting commuters
+* Travel becomes dangerous and expensive, affecting commuters and causing further disruption to jobs
+* basic healthcare is not available for children, which is worse in rural areas
 
 ##### Impact on receiving country (Pakistan)
-
+* so many new people with not enough jobs for everyone as development hasn't caught up yet
+* housing has the same problem, lots of new people with development lagging behind
+* people spending their entire time in pakistan in refugee camps as there is nowhere for them to go
+* lots of regugees are very dependant on the government for support which is very expensive straining the country
+* large number of nregistered illegal refugees (1.5mil)
 
 ## Voluntary Migration (Poland to the UK)
 ##### Push & pull factors
