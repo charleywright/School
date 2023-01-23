@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cc1ebfdd6f42b5",
+        "id": "0e557518d1aa5dea",
         "type": "tabs",
         "children": [
           {
-            "id": "9df63ae8a83457f3",
+            "id": "a493f8587228bd55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "47409e2073128936"
+            "group": "9758f635cff5a591"
           }
         ]
       },
       {
-        "id": "83b7d9faa769ca0b",
+        "id": "aded7529c4d0789f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3268cf102f1fc2",
+            "id": "c237ad7e9f122f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "47409e2073128936"
+            "group": "9758f635cff5a591"
           }
         ]
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "corrie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +85,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -165,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9df63ae8a83457f3",
+  "active": "c237ad7e9f122f9c",
   "lastOpenFiles": [
-    "README.md",
-    "Geography/Hydrosphere.md",
-    "push.md",
-    "Geography/Biosphere.md",
     "Geography/Lithosphere - Glaciation.md",
-    "Geography/Podsol Diagram.png",
-    "Geography/Brown Earth Diagram.png",
-    "Geography/The Sahel Case Study.md",
+    "Geography/Hydrosphere.md",
+    "Geography/Migration.md",
     "Geography/Mumbai Case Study.md",
-    "Geography/Migration.md"
+    "Geography/The Sahel Case Study.md",
+    "Geography/Global Hydrological Cycle.png",
+    "Geography/Cairngorm Case Study.md",
+    "Geography/Biosphere.md",
+    "README.md",
+    "push.md"
   ]
 }

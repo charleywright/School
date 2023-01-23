@@ -39,7 +39,10 @@
 
 ## Global Hydrological cycle
 ![Global Hydrological Cycle](https://raw.githubusercontent.com/charleywright/School/master/Geography/Global%20Hydrological%20Cycle.png)
-* Closed system (water remains in the system)
+
+The global hydrological cycle describes how water moves around the world and is a closed system, meaning water does not leave or enter the system
+
+
 1. Evaporation from ocean caused by the sun creates vapour
 	* Could also be from evaporation & transpiration (water evaporating from surface of freen leaves)
 3. Vapour rises and cools, condensing into couds. Clouds move inland due to wind (advection)
