@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Migration.md",
+                "file": "Geography/Hydrosphere.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Migration.md",
+                "file": "Geography/Hydrosphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Migration.md",
+                "file": "Geography/Hydrosphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Migration.md"
+                "file": "Geography/Hydrosphere.md"
               }
             }
           }
@@ -148,10 +147,10 @@
   },
   "active": "88fc97ab2c86d8be",
   "lastOpenFiles": [
-    "Geography/Hydrosphere.md",
-    "Geography/Migration.md",
     "Geography/Cairngorm Case Study.md",
     "Geography/Biosphere.md",
+    "Geography/Migration.md",
+    "Geography/Hydrosphere.md",
     "Computer Science.md",
     "Geography/Lithosphere - Glaciation.md",
     "Geography/The Sahel Case Study.md",

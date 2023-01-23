@@ -36,3 +36,7 @@
 * Eventually (commonly during a flood due to the increased flow rate and energy of the river) the river breaks through the neck, forming a more direct route.
 * Eddies form at the entrance and exit of the old meander, which slow the flow of water causing it to deposit sediment.
 * The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
+
+## Closed hydro-cycle
+
+## Open
