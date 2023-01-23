@@ -107,7 +107,8 @@ Falling limb shape depends on
 
 ###### More to consider
 * **Snowfall**: Less runoff initially but a quick increase in temperature can result in quick thaw and flooding (especially if the ground is frozen)
-* **Average Temperature**: Very cold, hot, or dry climates result in hard ground thus more overland flow
+* **Average Temperature**: Very cold, hot, or dry climates result in hard ground thus more overland flow, shorter lag time, steeper rising limb and higher peak discharge. Higher temperatures could also indicate more evaporation and transpiration
+* **Season/Time of the year**: In summer similar amounts of rainfall may not lead to flooding because the soil is ready to accept a lot of water whereas in winter it is already waterlogged.  This goes hand in hand with many of the other points and can give an extra mark
 
 ### Example
 ![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
