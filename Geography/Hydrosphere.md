@@ -75,8 +75,6 @@ An output is the moisture which leaves the system by processes such as evaporati
 5. Some water will be evaporated from storage or while travelling in rivers
 
 ## Hydrographs
-![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
-
 The main things to comment on are
 * Precipitation
 * Lag Time
@@ -94,8 +92,15 @@ Rising limb shape depends on
 Lag time depends on (surface flow)
 **Condition of the soil**: If the soil is waterlogged a lot of surface flow will occur leading to a shorter lag time
 **Intensity of rain**: More intense rain allows less time for infiltration to occur therefore more surface runoff and a shorter lag time
-**Gradient 
+**Angle of slopes**: Gentler slopes allow water to flow slower, giving it more time to soak into the soil, increasing the lag time
+**Size of the drainage basin**: In a smaller drainage with less tributaries water will reach the river quicker, decreasing the lag time. In a larger drainage basin the many tributaries will act like temporary storage for the water, increasing the lag time
 
+Falling limb shape depends on
+**Groundwater flow**: If there is a lot of consistent groundwater flow the falling limb will be  slower and more gentle as more water is consistently added
+**High/low tide**: At high tide there is less space for the water to go therefore the falling limb is slower and more gentle
+
+### Example
+![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
 ##### Describe
 
 
