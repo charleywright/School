@@ -14,7 +14,8 @@
 	* Worse education to remaining people making it harder to recover and worse healthcare especially for children and poor communities
 * Little funding for law enforcement -> More corruption as people are more likely to accept money
 	* Decreased safety as the Taliban have a foothold in law enforcement allowing them little pushback
-* 
+* Public services such as roads are less maintained, deterioating quickly and less effective public transport
+* Travel becomes dangerous and expensive, affecting commuters
 
 ##### Impact on receiving country (Pakistan)
 
