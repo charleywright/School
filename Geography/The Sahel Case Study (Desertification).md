@@ -28,6 +28,24 @@
 		* Cycle of poverty develops
 * People move from country side into the city to find food but often can't afford it so end up in shanty towns on the edge of the city
 * Lack of food and water for animals threatens traditional nomad life
-* Settlements develop because people want to find food 
+* Settlements develop because people want to find food and jobs
+	* Settlements put increased stress on the surrounding land (over-cultivation)
+		* Less biodiversity, loss of soil structure, increased erosion, nutrient depletion)
+* Food prices increase due to higher demand and lower availability
+* Soil erosion decreases soil fertility, creating a downwards cycle
+* Lack of clean water allows diseases such as Cholera to spread
+* Rivers and water holes dry up, causing organisms and wildlife that depend on them to die (potentially entire species too)
+* Vegetation dies, causing wildlife to die and potentially their species
+* Eroded material is washed/blown into water supplies, contaminating them
+* In the last 30 years, nomads went from 70% to 7%
 
 ## Solutions/Effectiveness
+##### Movable fencing/Managed grazing pens
+
+##### Contour ploughing
+
+##### Magic stones (stones placed along contours)
+
+##### Irrigation
+
+##### Ploughing pits
