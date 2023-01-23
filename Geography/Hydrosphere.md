@@ -40,6 +40,10 @@
 ## Global Hydrological cycle
 ![Global Hydrological Cycle](https://raw.githubusercontent.com/charleywright/School/master/Geography/Global%20Hydrological%20Cycle.png)
 * Closed system (water remains in the system)
+1. Evaporation from ocean caused by the sun creates vapour
+	* Could also be from evaporation & transpiration (water evaporating from surface of freen leaves)
+3. Vapour rises and cools, condensing into couds. Clouds move inland due to wind (advection)
+4. Clouds grow too heavy and precipitate
 
 ## Drainage basin system
 * Open system (water enters and leaves the system at various points)
