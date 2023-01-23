@@ -90,17 +90,29 @@ Rising limb shape depends on
 * **Shape of the drainage basin**: If the drainage basin is circular with most tributaries leading to one concentrated place in a wide river the rising limb will be steep because all the water is going to one place compared to if tributaries are spaced out along a thin straight river. The thin river will flow faster, moving runoff quicker
 
 Lag time depends on (surface flow)
-**Condition of the soil**: If the soil is waterlogged a lot of surface flow will occur leading to a shorter lag time
-**Intensity of rain**: More intense rain allows less time for infiltration to occur therefore more surface runoff and a shorter lag time
-**Angle of slopes**: Gentler slopes allow water to flow slower, giving it more time to soak into the soil, increasing the lag time
-**Size of the drainage basin**: In a smaller drainage with less tributaries water will reach the river quicker, decreasing the lag time. In a larger drainage basin the many tributaries will act like temporary storage for the water, increasing the lag time
+* **Condition of the soil**: If the soil is waterlogged a lot of surface flow will occur leading to a shorter lag time
+* **Intensity of rain**: More intense rain allows less time for infiltration to occur therefore more surface runoff and a shorter lag time
+* **Angle of slopes**: Gentler slopes allow water to flow slower, giving it more time to soak into the soil, increasing the lag time
+* **Size of the drainage basin**: In a smaller drainage with less tributaries water will reach the river quicker, decreasing the lag time. In a larger drainage basin the many tributaries will act like temporary storage for the water, increasing the lag time
 
 Falling limb shape depends on
-**Groundwater flow**: If there is a lot of consistent groundwater flow the falling limb will be  slower and more gentle as more water is consistently added
-**High/low tide**: At high tide there is less space for the water to go therefore the falling limb is slower and more gentle
+* **Groundwater flow**: If there is a lot of consistent groundwater flow the falling limb will be  slower and more gentle as more water is consistently added
+* **High/low tide**: At high tide there is less space for the water to go therefore the falling limb is slower and more gentle
 
 ### Example
 ![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
+
+A) Steep rising limb, steep falling limb, short lag time, high peak flow
+B) Gentler rising limb, long and gentle falling limb, longer lag time, lower peak flow
+
+| A                    | B                 |
+| -------------------- | ----------------- |
+| Steep slopes         | Gentle Slopes     |
+| No trees             | Forested          |
+| Impermeable rocks    | Permeable rocks   |
+| Urban                | Rural             |
+| Intense thunderstorm | Light steady rain |
+
 ##### Describe
 
 
