@@ -51,7 +51,19 @@
 	* Percolate into the bedrock and travel as groundwater flow
 
 ## Drainage basin system
+##### Inputs
+The main input is precipitation mainly in the form of rainfall and snow. The type, strength, length and rate 
+
+##### Model Answer
 * Open system (water enters and leaves the system at various points)
+1. Water enters through precipitation
+2. Some may be intercepted where it falls to the ground as leaf drip or stem flow while some is evaporated (transpiration)
+3. Some may be stored on the ground in lakes or snow fields (surface storage)
+4. Water may return through any of the main outputs
+	* Travel on the surface as overland flow
+	* infiltrate and travel through the soil as throughflow
+	* Percolate into the bedrock and travel as groundwater flow
+5. Some water will be evaporated from storage or while travelling in rivers
 
 ## Hydrographs
 ![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
