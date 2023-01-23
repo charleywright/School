@@ -1,1 +1,1 @@
-This repository is created and designed to be viewed using [Obsidian](https://obsidian.md/)
+This repository is created and designed to be viewed using [Obsidian](https://obsidian.md/). These are not complete notes, they are only the bits I went over for revision before prelims so quite a lot of content is missing

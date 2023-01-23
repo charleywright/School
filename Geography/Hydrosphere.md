@@ -52,7 +52,16 @@
 
 ## Drainage basin system
 ##### Inputs
-The main input is precipitation mainly in the form of rainfall and snow. The type, strength, length and rate 
+The main input is precipitation mainly in the form of rainfall and snow. The type, strength, length and rate of occurence all have an impact on the amount of water in the system
+
+##### Storage
+Storage is when moisture is kept in the system. This can be found in the soil, in lochs, ice caps, glaciers, and on the leaves and roots of vegetation. Water seeps into the ground by the process of infiltration (through soil) and percolation (through rock) and is stored in the soil or in rock stores such as the water table
+
+##### Transfers
+Transfers are the movement of water through the system, in the air through clouds and precipitation and on the ground through run-off, infiltration and groundwater flow. Overland flow transfers water through the basin as sheet wash and across the surface in rivers. Throughflow is the flow of water through soil towards a river or the ocean. Groundwater flow is very slow and takes time to flow through the system into rivers
+
+##### Outputs
+An output is the moisture which leaves the system by processes such as evaporation, transpiration and flowing into the ocean
 
 ##### Model Answer
 * Open system (water enters and leaves the system at various points)

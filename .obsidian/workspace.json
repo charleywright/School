@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Hydrosphere.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3268cf102f1fc2",
+  "active": "9df63ae8a83457f3",
   "lastOpenFiles": [
     "Geography/Hydrosphere.md",
     "push.md",
