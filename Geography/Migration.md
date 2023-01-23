@@ -23,11 +23,18 @@
 * housing has the same problem, lots of new people with development lagging behind
 * people spending their entire time in pakistan in refugee camps as there is nowhere for them to go
 * lots of regugees are very dependant on the government for support which is very expensive straining the country
-* large number of nregistered illegal refugees (1.5mil)
+* large number of nregistered illegal refugees (1.5million registered, 1million unregistered) causing tracking population to be very difficult. Lack of citizenship for a lot of people means they cannot legally work
+* illegal migrants do not want to return to afghanistan and will resort to violence, putting strain on authorities
+* Pakistan have had to stop granting refugee status as there are too many people
+* pressure on healthcare, education, housing & jobs caused the government to put restrictions on who can access these resources & services
 
 ## Voluntary Migration (Poland to the UK)
 ##### Push & pull factors
-
+* Poland has a high unemployment rate (18.5% in 2005) compared to the UK
+* Rural areas have as high as 40% unemployment
+* approximately 40% of young people are unemployed, forcing them to remain with their parents
+* increased number of available jobs in the UK compared to Poland
+* The UK has a much lower unemployment rate of aro
 
 ##### Impact on donor country (Poland)
 
