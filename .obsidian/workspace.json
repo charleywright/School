@@ -4,53 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "238ed0e88af4cbd7",
+        "id": "d21272c4d6323fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "16f93d5863baca08",
+            "id": "88fc97ab2c86d8be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/Migration.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5ab47bcbcde99eb8"
-          },
-          {
-            "id": "c9bde22dcc7ee2dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            "group": "3967acd585e5e76f"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "f1d84a2dead6063a",
+        "id": "d96ec53d5046418e",
         "type": "tabs",
         "children": [
           {
-            "id": "3312476d6683014e",
+            "id": "b52733e7854526ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/Migration.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "5ab47bcbcde99eb8"
+            "group": "3967acd585e5e76f"
           }
         ]
       }
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Untitled.md",
+                "file": "Geography/Migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Untitled.md",
+                "file": "Geography/Migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Untitled.md"
+                "file": "Geography/Migration.md"
               }
             }
           }
@@ -178,9 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9bde22dcc7ee2dc",
+  "active": "b52733e7854526ee",
   "lastOpenFiles": [
     "Geography/Hydrosphere.md",
+    "Geography/Migration.md",
     "Geography/Cairngorm Case Study.md",
     "Geography/Biosphere.md",
     "Computer Science.md",
@@ -188,7 +176,6 @@
     "Geography/The Sahel Case Study.md",
     "Untitled.md",
     "Geography/Mumbai Case Study.md",
-    "Maths.md",
-    "Chemistry.md"
+    "Maths.md"
   ]
 }
