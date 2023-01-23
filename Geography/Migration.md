@@ -40,9 +40,15 @@
 * One of only 3 countries that did not limit the number of allowed refugees (easier to be accepted; less friction)
 * lack of healthcare in Poland with less advanced technology. People requiring complex medical procedures may migrate for these proceduces and better treatment
 * People in rural areas ma be subsistent farmers, UK could allow them to make more and better support their families
-* Many polish people know english already, decreased friction because a new language doesn't have to be k
+* Many polish people know english already, decreased friction because a new language doesn't have to be learned
 
 ##### Impact on donor country (Poland)
-
+* People emigrating decreases the population therefore decreases stress on resources like food & water and causes more jobs to come available
+* people may go to the UK to learn a skill then return to Poland with their new skill, benefiting the Polish economy
+* people may emigrate to the UK and send money back home. The pound is considered a "hard currency" meaning it does not fluctuate over short periods of time
+	* people in Poland have more money to spend, benefiting the economy
+* reduced population growth due to large proportion of emigrants being young men decreasing birth rate
+* large number of young, educated, skilled workers leaving slowing development
+* more jobs become available so older population have to fill in the gaps & peo
 
 ##### Impact on receiving country (The UK)
