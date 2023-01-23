@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3ef758a097ebac",
+        "id": "75432e89167a8f66",
         "type": "tabs",
         "children": [
           {
-            "id": "65805506e863715b",
+            "id": "6ff12706155e0bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "6589ca37aca91a17"
+            "group": "d350a2db3b8e0d10"
           }
         ]
       },
       {
-        "id": "c9f55f1bf8c90acb",
+        "id": "f5f283f0ddf349fe",
         "type": "tabs",
         "children": [
           {
-            "id": "6804c955a2076eaf",
+            "id": "8c8eab972ad28121",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "6589ca37aca91a17"
+            "group": "d350a2db3b8e0d10"
           }
         ]
       }
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6804c955a2076eaf",
+  "active": "8c8eab972ad28121",
   "lastOpenFiles": [
-    "push.md",
     "Geography/Hydrosphere.md",
+    "push.md",
     "Geography/Biosphere.md",
     "Geography/Lithosphere - Glaciation.md",
     "Geography/Podsol Diagram.png",
