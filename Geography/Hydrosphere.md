@@ -77,6 +77,19 @@ An output is the moisture which leaves the system by processes such as evaporati
 ## Hydrographs
 ![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
 
+The main things to comment on are
+* Precipitation
+* Lag Time
+* Rising limb
+* Falling limb
+* Peak flow
+In some cases base flow can be compared to storm flow if it is shown
+
+Rising limb shape depends on
+* **Strength of rainfall**: Stronger rain gives less time for soil to soak up water therefore more surface flow occurs
+* **Length of rainfall**: The longer rain continues the more storage will be used and waterlogged soils will become, therefore over time more surface flow will occur
+* 
+
 ##### Describe
 
 
