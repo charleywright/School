@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8226d8f10a766209",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbc8f49be580f1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Hydrosphere.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "cb506269e088be98"
-          }
-        ]
-      },
-      {
         "id": "ad3ef758a097ebac",
         "type": "tabs",
         "children": [
@@ -30,14 +11,9 @@
             "id": "65805506e863715b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Hydrosphere.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "cb506269e088be98"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Hydrosphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Hydrosphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geography/Hydrosphere.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,17 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc8f49be580f1a9",
+  "active": "65805506e863715b",
   "lastOpenFiles": [
-    "Geography/Biosphere.md",
+    "push.md",
     "Geography/Hydrosphere.md",
+    "Geography/Biosphere.md",
     "Geography/Lithosphere - Glaciation.md",
     "Geography/Podsol Diagram.png",
     "Geography/Brown Earth Diagram.png",
     "Geography/The Sahel Case Study.md",
     "Geography/Mumbai Case Study.md",
     "Geography/Migration.md",
-    "Geography/Cairngorm Case Study.md",
-    "Computer Science.md"
+    "Geography/Cairngorm Case Study.md"
   ]
 }
