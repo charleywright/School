@@ -38,7 +38,7 @@
 * The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
 
 ## Closed hydrological cycle
-![Hydrologicall Cycle](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrological%20Cycle.png)
+![Hydrological Cycle](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrological%20Cycle.png)
 
 ## Open hydrological cycle
 
