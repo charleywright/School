@@ -90,13 +90,13 @@ In some cases base flow can be compared to storm flow if it is shown
 These two terms are commonly interchanged however AFAIK there is no penalization for using the wrong one as long as it is clear
 
 Rising limb shape depends on
-* **Strength of rainfall**: Stronger rain gives less time for soil to soak up water therefore more surface flow occurs
-* **Length of rainfall**: The longer rain continues the more storage will be used and waterlogged soils will become, therefore over time more surface flow will occur
-* **Condition of the soil**: If the soil is already waterlogged little water will infiltrate and lots of surface flow will occur
+* **Strength of rainfall**: Stronger rain gives less time for soil to soak up water therefore more overland flow occurs
+* **Length of rainfall**: The longer rain continues the more storage will be used and waterlogged soils will become, therefore over time more overland flow will occur
+* **Condition of the soil**: If the soil is already waterlogged little water will infiltrate and lots of overland flow will occur
 * **Shape of the drainage basin**: If the drainage basin is circular with most tributaries leading to one concentrated place in a wide river the rising limb will be steep because all the water is going to one place compared to if tributaries are spaced out along a thin straight river. The thin river will flow faster, moving runoff quicker
 
-Lag time depends on (surface flow)
-* **Condition of the soil**: If the soil is waterlogged a lot of surface flow will occur leading to a shorter lag time
+Lag time depends on (surface/overland flow)
+* **Condition of the soil**: If the soil is waterlogged a lot of overland flow will occur leading to a shorter lag time
 * **Intensity of rain**: More intense rain allows less time for infiltration to occur therefore more surface runoff and a shorter lag time
 * **Angle of slopes**: Gentler slopes allow water to flow slower, giving it more time to soak into the soil, increasing the lag time
 * **Size of the drainage basin**: In a smaller drainage with less tributaries water will reach the river quicker, decreasing the lag time. In a larger drainage basin the many tributaries will act like temporary storage for the water, increasing the lag time
@@ -111,7 +111,8 @@ Falling limb shape depends on
 * **Season/Time of the year**: In summer similar amounts of rainfall may not lead to flooding because the soil is ready to accept a lot of water whereas in winter it is already waterlogged. More water is used in summer and the higher temperatures and longer days allow more evaporation and transpiration to occur
 * **Urbanisation**: Most man-made things are impermeable (roads, roofing) and have drainage systems (gutters, underground drainage) which cause water to flow very quickly to rivers, causing a short lag time, increased peak discharge and steeper rising limb
 * **Drainage systems**: Similar to urbanisation, if farmers dig drainage trenches in their land water will flow much faster and less infiltration will occur therefore a shorter lag time, higher peak discharge and steeper rising limb could be expected
-* **Inappropriate farming**: Ploughing on wet soil compresses the subsoil creating a "plough plan" with can decrease water holding capacity and increase overland flow
+* **Afforestation (planting trees where there were none)**: Increases interception and helps with inflitration as the roots absorb water. Water is slowed by hitting the trees therefore erosion is reduced and water flows slower, allowing more time to infliltrate. Results in a longer lag time, less steep rising limb and lower peak discharge.
+* **Inappropriate farming**: Ploughing on wet soil compresses the subsoil creating a "plough plan" with can decrease water holding capacity and increase overland flow and erosion
 
 ### Example
 ![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
