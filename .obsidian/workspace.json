@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Cairngorm Case Study.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Cairngorm Case Study.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Cairngorm Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Cairngorm Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Biosphere.md"
+                "file": "Geography/Cairngorm Case Study.md"
               }
             }
           }
@@ -166,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3312476d6683014e",
+  "active": "16f93d5863baca08",
   "lastOpenFiles": [
+    "Geography/Biosphere.md",
     "Computer Science.md",
     "Geography/Cairngorm Case Study.md",
     "Geography/Lithosphere - Glaciation.md",
@@ -175,7 +175,6 @@
     "Untitled.md",
     "Geography/Mumbai Case Study.md",
     "Geography/Hydrosphere.md",
-    "Geography/Biosphere.md",
     "Maths.md",
     "Chemistry.md"
   ]

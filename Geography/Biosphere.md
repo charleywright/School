@@ -32,7 +32,7 @@
 * Limited biota due to low temperature, high precipication, tough leaf litter & eluviated minerals
 
 ## Gley
-![Gley Diagram](https://github.com/charleywright/School/blob/master/Geography/Gley%20Diagram.png)
+![Gley Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Gley%20Diagram.png)
 * Wet loving species like reeds, moss, lichens
 * Three well defined layers in Ao horizon: Leaf litter, fermentation layer, peaty acidic mor humus
 * Dark greyish brown silty A horizon. Some red-brown mottling along root channels
