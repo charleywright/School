@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Hydrosphere.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Hydrosphere.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Hydrosphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Biosphere.md",
+                "file": "Geography/Hydrosphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Biosphere.md"
+                "file": "Geography/Hydrosphere.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "26fe750df9cb7f91",
   "lastOpenFiles": [
+    "Geography/Biosphere.md",
     "Geography/Brown Earth Diagram.png",
     "Geography/The Sahel Case Study.md",
     "Geography/Mumbai Case Study.md",
@@ -175,7 +176,6 @@
     "Geography/Hydrosphere.md",
     "Geography/Podsol Diagram.png",
     "Geography/Cairngorm Case Study.md",
-    "Geography/Biosphere.md",
     "Computer Science.md"
   ]
 }
