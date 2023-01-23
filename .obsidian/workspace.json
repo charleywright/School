@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d31d8931cefb9bf5",
+        "id": "b4cc1ebfdd6f42b5",
         "type": "tabs",
         "children": [
           {
-            "id": "7ee3ba623b49eb7d",
+            "id": "9df63ae8a83457f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "a4136a178a3caf00"
+            "group": "47409e2073128936"
           }
         ]
       },
       {
-        "id": "e1e4fa4c71e0973f",
+        "id": "83b7d9faa769ca0b",
         "type": "tabs",
         "children": [
           {
-            "id": "767215b479b57d4a",
+            "id": "8d3268cf102f1fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "a4136a178a3caf00"
+            "group": "47409e2073128936"
           }
         ]
       }
@@ -166,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ee3ba623b49eb7d",
+  "active": "8d3268cf102f1fc2",
   "lastOpenFiles": [
     "Geography/Hydrosphere.md",
     "push.md",
