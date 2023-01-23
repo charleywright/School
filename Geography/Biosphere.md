@@ -1,4 +1,6 @@
 ## Brown Earth
+
+
 ![Brown Earth Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Brown%20Earth%20Diagram.png)
 * Deciduous vegetation
 * Deep leaf litter (from deciduous trees) and fermentation layer above humus

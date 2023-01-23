@@ -37,6 +37,11 @@
 * Eddies form at the entrance and exit of the old meander, which slow the flow of water causing it to deposit sediment.
 * The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
 
-## Closed hydro-cycle
+## Closed hydrological cycle
 
-## Open
+## Open hydrological cycle
+
+## Drainage basin
+
+## Hydrographs
+![[Hydrograph Diagram.png]]
