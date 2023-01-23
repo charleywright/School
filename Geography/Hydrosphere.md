@@ -42,7 +42,18 @@
 
 The global hydrological cycle describes how water moves around the world and is a closed system, meaning water does not leave or enter the system
 
+##### Factors affecting it
+**Human**
+* Impermeable concrete and tarmac which reduce infiltration
+* Drains carry water straight to rivers, increasing chance of flooding
+* Artificial crop watering removes water from rivers, decreasing discharge
+* Deforestation decreases the amount of vegetation therefore less interception occurs and less transpiration. This causes higher discharge and raises the chance of a flood. The opposite is Afforestation (planting trees)
+* Dams and resevoirs can regulate the flow of water, reducing spikes and decreasing peak flow. Straightening and clearing rivers (dredging) allows water to flow faster
 
+**Physical**
+* 
+
+##### Describe
 1. Evaporation from ocean caused by the sun creates vapour
 	* Could also be from evaporation & transpiration (water evaporating from surface of freen leaves)
 3. Vapour rises and cools, condensing into couds. Clouds move inland due to wind (advection)
