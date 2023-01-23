@@ -34,7 +34,13 @@
 * Rural areas have as high as 40% unemployment
 * approximately 40% of young people are unemployed, forcing them to remain with their parents
 * increased number of available jobs in the UK compared to Poland
-* The UK has a much lower unemployment rate of aro
+* The UK has a much lower unemployment rate of around 5% with better wages which could help with mentality and living standards
+* Higher GDP of 30k in UK compared to 13k in Poland - More high paying jobs in the UK
+* 600,000 vacancies for semi-skilled and skilled jobs in 2007 rewarding educated people
+* One of only 3 countries that did not limit the number of allowed refugees (easier to be accepted; less friction)
+* lack of healthcare in Poland with less advanced technology. People requiring complex medical procedures may migrate for these proceduces and better treatment
+* People in rural areas ma be subsistent farmers, UK could allow them to make more and better support their families
+* Many polish people know english already, decreased friction because a new language doesn't have to be k
 
 ##### Impact on donor country (Poland)
 
