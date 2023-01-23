@@ -49,6 +49,13 @@
 	* people in Poland have more money to spend, benefiting the economy
 * reduced population growth due to large proportion of emigrants being young men decreasing birth rate
 * large number of young, educated, skilled workers leaving slowing development
-* more jobs become available so older population have to fill in the gaps & peo
+* more jobs become available so older population have to fill in the gaps & people working difficult jobs decreases efficiency, hurting the economy
+* young men are prime candidates to defend Poland in the event of conflict. with them leaving there are less people left to defend the country if needed
+* people in Poland may compare the country to the UK, putting strain on the government to improve to the same standards of the UK
 
 ##### Impact on receiving country (The UK)
+* some migrants are willing to do jobs that citizens to not want such as low-paid jobs in factories, cayering, cleaning and labouring
+	* unskilled jobs, very suitable for people with lower levels of education or who are waiting on qualifications to transfer (may need to prove their skils as qualifications may not transfer)
+	* some are willing to work long hours in unsociable settings
+* influx of young people has helped the UK cope with having an ageing population by increasing the number of young people working, benefiting the economy and government
+	* more taxes paid, help support older population
