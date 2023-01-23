@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f529ce9e6a344ab",
+        "id": "8226d8f10a766209",
         "type": "tabs",
         "children": [
           {
-            "id": "26fe750df9cb7f91",
+            "id": "cbc8f49be580f1a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,26 +18,26 @@
                 "source": true
               }
             },
-            "group": "5cd3cfba15f8992e"
+            "group": "cb506269e088be98"
           }
         ]
       },
       {
-        "id": "7b5a2fc7ec3832bf",
+        "id": "ad3ef758a097ebac",
         "type": "tabs",
         "children": [
           {
-            "id": "4292846f8b1dc513",
+            "id": "65805506e863715b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Geography/Hydrosphere.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
-            "group": "5cd3cfba15f8992e"
+            "group": "cb506269e088be98"
           }
         ]
       }
@@ -165,16 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26fe750df9cb7f91",
+  "active": "cbc8f49be580f1a9",
   "lastOpenFiles": [
     "Geography/Biosphere.md",
+    "Geography/Hydrosphere.md",
+    "Geography/Lithosphere - Glaciation.md",
+    "Geography/Podsol Diagram.png",
     "Geography/Brown Earth Diagram.png",
     "Geography/The Sahel Case Study.md",
     "Geography/Mumbai Case Study.md",
-    "Geography/Lithosphere - Glaciation.md",
     "Geography/Migration.md",
-    "Geography/Hydrosphere.md",
-    "Geography/Podsol Diagram.png",
     "Geography/Cairngorm Case Study.md",
     "Computer Science.md"
   ]

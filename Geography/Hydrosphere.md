@@ -38,10 +38,10 @@
 * The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
 
 ## Closed hydrological cycle
-
+![[Hydrological Cycle.png]]
 ## Open hydrological cycle
 
 ## Drainage basin
 
 ## Hydrographs
-![[Hydrograph Diagram.png]]
+![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
