@@ -40,12 +40,19 @@
 * In the last 30 years, nomads went from 70% to 7%
 
 ## Solutions/Effectiveness
-##### Movable fencing/Managed grazing pens
+##### Movable fencing/Managed grazing pens (restrict grazing to managed areas)
+ + Reduces dangers of over grazing and trampling soil
+ + Allows time for soil and land to recover between grazing sessions
 
-##### Contour ploughing
+- Only successful if fencing is available and affordable
+- Herders must reach agreement which is not always possible
+- Settlement of Korr in Kenya, woody thorn material was harvested which left no food for the animals of other herders (Deforestation of surrounding area/woodland)
+
+##### Contour ploughing (plough along contours of hillside)
+
 
 ##### Magic stones (stones placed along contours)
 
-##### Irrigation
+##### Irrigation (artitifical watering of crops using stored water)
 
-##### Ploughing pits
+##### Planting pits (Dig hole, surround with dirt, add manure or compost. Termites are attracted and dig galleries in the soil which soak in water and better retain it)
