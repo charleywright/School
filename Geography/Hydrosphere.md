@@ -99,6 +99,10 @@ Falling limb shape depends on
 * **Groundwater flow**: If there is a lot of consistent groundwater flow the falling limb will be  slower and more gentle as more water is consistently added
 * **High/low tide**: At high tide there is less space for the water to go therefore the falling limb is slower and more gentle
 
+###### More to consider
+* **Snowfall**: Less runoff initially but a quick increase in temperature can result in quick thaw and flooding (especially if the ground is frozen)
+* **Average Temperature**: Very cold, hot, or dry climates result in hard ground thus more overland flow
+
 ### Example
 ![Hydrograph Diagram](https://raw.githubusercontent.com/charleywright/School/master/Geography/Hydrograph%20Diagram.png)
 
