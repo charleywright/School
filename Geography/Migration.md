@@ -59,3 +59,9 @@
 	* some are willing to work long hours in unsociable settings
 * influx of young people has helped the UK cope with having an ageing population by increasing the number of young people working, benefiting the economy and government
 	* more taxes paid, help support older population
+	* 2.5billion pounds were contributed from taxes, buying houses and working
+* some children may not be proficient in english, putting strain on education
+* increased strain on the NHS due to fast increase in population with not all migrants paying taxes immediately as they had to find work
+* Polish people diversify UK culture by bringing their food and traditions, opening supermarkets and generally moviing the country forward
+* tension may arise in places that have not seen much immigration in the past and dont support change
+* increased population and demand for houses causes rent and housing prices to increase, making housing less attainable to young people looking to move out
