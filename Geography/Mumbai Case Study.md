@@ -1,7 +1,14 @@
 ## Dharavi
 ##### Problem
 * Land is not legally owned
-	* 
+	* Could be knocked down at any moment
+		* Little incentive to develop and renovate
+* Little to no ammenities
+	* waste disposal
+	* clean water
+	* sewage network
+* Hand built with scavenged materials
+	* No building specifications or sa
 
 ##### Solutions
 
