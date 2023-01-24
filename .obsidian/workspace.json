@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/The Sahel Case Study (Desertification).md",
+                "file": "Geography/Mumbai Case Study.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/The Sahel Case Study (Desertification).md",
+                "file": "Geography/Mumbai Case Study.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/The Sahel Case Study (Desertification).md",
+                "file": "Geography/Mumbai Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/The Sahel Case Study (Desertification).md",
+                "file": "Geography/Mumbai Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/The Sahel Case Study (Desertification).md"
+                "file": "Geography/Mumbai Case Study.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "40402915c7d68230",
   "lastOpenFiles": [
+    "Geography/The Sahel Case Study (Desertification).md",
     "Geography/Mumbai Case Study.md",
     "Geography/Migration.md",
     "Geography/Lithosphere - Glaciation.md",
@@ -175,7 +176,6 @@
     "Geography/Cairngorm Case Study.md",
     "Geography/Biosphere.md",
     "Chemistry.md",
-    "Geography/The Sahel Case Study (Desertification).md",
     "Geography/Global Hydrological Cycle.png",
     "README.md"
   ]
