@@ -49,10 +49,17 @@
 - Settlement of Korr in Kenya, woody thorn material was harvested which left no food for the animals of other herders (Deforestation of surrounding area/woodland)
 
 ##### Contour ploughing (plough along contours of hillside)
++ Slows runoff during rainstorms
+	+ Decreases soil erosion
+	+ Allows water to soak into the soil
 
+- Works well for moderate slopes (<10%) reducing soil erosion by up to 50%
+- 
 
 ##### Magic stones (stones placed along contours)
 
+
 ##### Irrigation (artitifical watering of crops using stored water)
+
 
 ##### Planting pits (Dig hole, surround with dirt, add manure or compost. Termites are attracted and dig galleries in the soil which soak in water and better retain it)
