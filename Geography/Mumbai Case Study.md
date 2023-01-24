@@ -39,7 +39,11 @@
 ##### Evaluation
 * Demolition is met with protest & violence as people don't want their homes knocked down
 * Only 30% of dwellers qualify, 70% would have to set up in another slum
-* 
+* Some new flats sold to middle class people due to corruption
+* Many return to slums as they can't afford monthly costs
+* Small business selling out of the home cannot continue in large tower blocks (many jobs lost)
+* Flow of migrants into Mumbai not slowing down, core problem not solved
+* Very slow progress with schemes being put on hold
 
 ## Mumbai Traffic (NOT NEEDED FOR PRELIM)
 #### Challenges
