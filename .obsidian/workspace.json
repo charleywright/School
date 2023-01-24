@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1405a87a473c16b2",
+        "id": "1baa386c63de6f51",
         "type": "tabs",
         "children": [
           {
-            "id": "40402915c7d68230",
+            "id": "39f68636a76f1583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Mumbai Case Study.md",
+                "file": "Geography/Population.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "a57a512fbd2b1873"
+            "group": "5a5f2642694b98f1"
           }
         ]
       },
       {
-        "id": "aee0b51b5a517dce",
+        "id": "c4cb0656b8f6ddeb",
         "type": "tabs",
         "children": [
           {
-            "id": "ac018fe0ec395fcd",
+            "id": "5c2e1cd3fa55e3a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Mumbai Case Study.md",
+                "file": "Geography/Population.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "a57a512fbd2b1873"
+            "group": "5a5f2642694b98f1"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Mumbai Case Study.md",
+                "file": "Geography/Population.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Mumbai Case Study.md",
+                "file": "Geography/Population.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Mumbai Case Study.md"
+                "file": "Geography/Population.md"
               }
             }
           }
@@ -165,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40402915c7d68230",
+  "active": "5c2e1cd3fa55e3a1",
   "lastOpenFiles": [
-    "Geography/The Sahel Case Study (Desertification).md",
     "Geography/Mumbai Case Study.md",
+    "Geography/Development.md",
+    "Geography/Population.md",
+    "Geography/The Sahel Case Study (Desertification).md",
     "Geography/Migration.md",
     "Geography/Lithosphere - Glaciation.md",
     "Geography/Hydrosphere.md",
     "Geography/Cairngorm Case Study.md",
     "Geography/Biosphere.md",
-    "Chemistry.md",
-    "Geography/Global Hydrological Cycle.png",
-    "README.md"
+    "Chemistry.md"
   ]
 }
