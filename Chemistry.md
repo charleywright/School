@@ -4,6 +4,12 @@
 * carbon monoxide is a reducing agent
 * oxidising agents can kill bacteria & act as bleach to remove colour
 
+##### Redox balancing
+1. Balance the non-oxygen element
+2. Balance oxygens with water
+3. Balance hydrogens with $H+$ ions
+4. Equalise the charges with $e^-$
+
 ## Unit 2 (Nature's chemistry)
 TODO
 
@@ -19,3 +25,4 @@ TODO
 * Minimising waste
 * Avoiding using or producing toxic chemicals
 * Designing bio-degradeable products
+
