@@ -53,13 +53,25 @@
 	+ Decreases soil erosion
 	+ Allows water to soak into the soil
 
+*  Slows down irrigation, allowing water to soak into the soil and the soil remain moist
+
 - Works well for moderate slopes (<10%) reducing soil erosion by up to 50%
-- 
+- If the contour lines are misidentified it can increase erosion
 
 ##### Magic stones (stones placed along contours)
++ Allow water to seep into the soil instead of running off
++ Decrease erosion by catching soil
++ Can double the yield of crops such as grandnuts
 
+* Very low cost
+* Can be raked over land, also brings buried nutrients to the top
+* In Mali they have increased crop yields by up to 50%
 
 ##### Irrigation (artitifical watering of crops using stored water)
++ Keeps soil moist
++ Denser and heavier soil is less suceptible to erosion and being blown away
 
+- Only successful if water is able to be stored
+- Overuse can decrease quality of soil
 
 ##### Planting pits (Dig hole, surround with dirt, add manure or compost. Termites are attracted and dig galleries in the soil which soak in water and better retain it)
