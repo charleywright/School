@@ -25,4 +25,3 @@ TODO
 * Minimising waste
 * Avoiding using or producing toxic chemicals
 * Designing bio-degradeable products
-
