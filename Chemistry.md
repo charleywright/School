@@ -25,3 +25,6 @@ TODO
 * Minimising waste
 * Avoiding using or producing toxic chemicals
 * Designing bio-degradeable products
+
+##### Rates of reaction
+* If the rate of reaction is too slow it is very expensive, if it is too high there is a risk of explosion
