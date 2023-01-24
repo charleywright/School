@@ -8,7 +8,9 @@
 	* clean water
 	* sewage network
 * Hand built with scavenged materials
-	* No building specifications or sa
+	* No building regulations
+		* Buildings can be dangerous and unsteady
+* 
 
 ##### Solutions
 
