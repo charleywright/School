@@ -27,10 +27,19 @@
 
 **URBZ**
 * Setup by professionals in design, architecture, economy etc
-* 
+* Belief that residents know what they want and their feedback is crucial/should be a core part of planning & development
+* Run workshops where communities take part in planning & building
+* Other events aimed to bring together the community
+
+**General**
+* Give property rights, allowing people to receive loans and provide incentive to improve
+* Provide ammeneties in slums making them less polluted, cleaner & more sanitary
+* Build areas for rubbish collection, running water & clean toilets
 
 ##### Evaluation
-
+* Demolition is met with protest & violence as people don't want their homes knocked down
+* Only 30% of dwellers qualify, 70% would have to set up in another slum
+* 
 
 ## Mumbai Traffic (NOT NEEDED FOR PRELIM)
 #### Challenges
