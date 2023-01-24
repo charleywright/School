@@ -26,7 +26,7 @@
 * In Chad only 22% of people can read and write, meaning most people would not be able to compete a written census without aid which would be very expensive
 
 ## Describe/Explain Population Pyramids
-![[Pasted image 20230124120212.png]]
+![[Bangladesh Pyramid.png]]
 ##### Wide base showing high  proportion of young dependants
 High birth rates:
 * Lack of family planning
@@ -51,7 +51,7 @@ High death rates and low life expectancy
  * Poor geriatric healthcare
  * Inadequate welfare systems
 
-![[Pasted image 20230124120155.png]]
+![[Italy 2050 Pyramid.png]]
 ##### Narrow base indicating a low proportion of young dependants
 Low/falling birth rates
 * Increased family planning
