@@ -1,6 +1,7 @@
 ## Dharavi
 ##### Problem
-
+* Land is not legally owned
+	* 
 
 ##### Solutions
 
