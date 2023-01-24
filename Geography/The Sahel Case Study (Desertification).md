@@ -72,6 +72,11 @@
 + Denser and heavier soil is less suceptible to erosion and being blown away
 
 - Only successful if water is able to be stored
-- Overuse can decrease quality of soil
+- Overuse can decrease quality of soil, reducing fertility and requiring expensive fertilisers to revert
+- Some irrigation methods are too expensive for poorer farmers such as drip irrigation and fertilisers
 
 ##### Planting pits (Dig hole, surround with dirt, add manure or compost. Termites are attracted and dig galleries in the soil which soak in water and better retain it)
++ Makes better use of rainwater and runoff
++ Allows soil to redevelop
++ Very simple requiring no extra tools or materials
++ Normally used on abandoned land where crops cant grow allowing re-use of otherwise wasted space. It is therefore 100% beneficial as the land would otherwise not be used  
