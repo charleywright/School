@@ -16,7 +16,18 @@
 * Higher crime rate
 
 ##### Solutions
+**Dharavi Redevelopment Project**
+* Bulldoze existing slums
+* 65% total land used for rehousing, not enough to rehouse everyone
+* 35% sold for commercial development
+* Each house just over 200sqft, much smaller than existing dwellings
+* More open space with terraced areas & specific market areas
+* Private firms want to build shopping malls and hotels
+* Some people give consent, most don't but could have their dwellings demolished for being illegal
 
+**URBZ**
+* Setup by professionals in design, architecture, economy etc
+* 
 
 ##### Evaluation
 
