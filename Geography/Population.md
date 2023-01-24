@@ -25,4 +25,20 @@
 * There is an ongoing civil war in Syria, so any government operation would be a target. The amount of violence would make collecting data very dangerous potentially with casulties
 * In Chad only 22% of people can read and write, meaning most people would not be able to compete a written census without aid which would be very expensive
 
+## Describe/Explain Population Pyramids
+##### Wide base showing high  proportion of young dependants
+High birth rates:
+* Lack of family planning
+* High infant mortality (people have more children to compensate)
+* Need for workers in agriculture (family farms)
+* Religion (e.g many boys to show a strong family)
+* Children to support adults when they're older
+
+##### Narrows quickly, indicating a decreasing working population
+High death rates
+* High levels of disease
+* Famine
+* Lack of clean water and bad sanitation
+* Lack of or poo
+
 ## Population Structure Consequences
