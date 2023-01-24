@@ -10,7 +10,10 @@
 * Hand built with scavenged materials
 	* No building regulations
 		* Buildings can be dangerous and unsteady
-* 
+* Water is shared and can run beside open sewers
+* Very small and overcrowded (7 people could be in one room)
+* Disease is common and spreads quick due to lack of healthcare
+* Higher crime rate
 
 ##### Solutions
 
