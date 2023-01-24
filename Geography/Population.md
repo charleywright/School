@@ -77,3 +77,15 @@ Declining death rates and increased life expectancy
 * Imrpoved diets causing people to be healthier
 
 ## Population Structure Consequences
+#### Ageing
+**Effects**
+
+
+**Solutions**
+
+
+#### Youthful
+**Effects**
+
+
+**Solutions**
