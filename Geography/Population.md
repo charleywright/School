@@ -39,6 +39,34 @@ High death rates
 * High levels of disease
 * Famine
 * Lack of clean water and bad sanitation
-* Lack of or poo
+* Lack of or poor access to healthcare
+* Lack of education (hygeine and basic anatomy)
+* War/conflict causing large numbers of casualties
+
+##### Tapers rapidly towards the top indicating a low proportion of elderly dependants
+High death rates and low life expectancy
+ * Malnutrition
+ * Overcrowding
+ * Poor geriatric healthcare
+ * Inadequate welfare systems
+
+##### Narrow base indicating a low proportion of young dependants
+Low/falling birth rates
+* Increased family planning
+* Increased availability of contraception
+* Lower infant mortaliry rates
+* Increased use of robots reduces the need for workers
+* Increased standard of living
+* Chaning status of women (push for education/careers)
+
+##### Fairly uniform with filled out sides indicating high proportion of working population
+Low death rates
+* Accessible and widespread healthcare (e.g vaccines)
+* improved hygeine (clean drinking water)
+* Improved sanitation
+* Imrpoved foor production and storage
+
+##### Reasonably wide top indicating a large proportion of elderly dependants
+
 
 ## Population Structure Consequences
