@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "872b0097f604832b",
+        "id": "a41f125cc25caac0",
         "type": "tabs",
         "children": [
           {
-            "id": "814639629491aa80",
+            "id": "7add5edea760cde4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Population.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "80182384265d03dc"
+          }
+        ]
+      },
+      {
+        "id": "cfbb7df524031b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95d029fe5dbdfa32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Population.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "80182384265d03dc"
           }
         ]
       }
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geography/Population.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geography/Population.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geography/Population.md"
+              }
             }
           }
         ]
@@ -137,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "814639629491aa80",
+  "active": "95d029fe5dbdfa32",
   "lastOpenFiles": [
-    "Geography/Bangladesh Pyramid.png",
-    "Geography/Italy 2050 Pyramid.png",
     "Geography/Population.md",
+    "Geography/Italy 2050 Pyramid.png",
+    "Geography/Hydrograph Diagram.png",
+    "Geography/Biosphere.md",
+    "Geography/Bangladesh Pyramid.png",
     "Geography/Mumbai Case Study.md",
     "Geography/Development.md",
     "Geography/The Sahel Case Study (Desertification).md",
     "Geography/Migration.md",
-    "Geography/Lithosphere - Glaciation.md",
-    "Geography/Hydrosphere.md",
-    "Geography/Cairngorm Case Study.md"
+    "Geography/Lithosphere - Glaciation.md"
   ]
 }

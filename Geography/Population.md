@@ -26,7 +26,7 @@
 * In Chad only 22% of people can read and write, meaning most people would not be able to compete a written census without aid which would be very expensive
 
 ## Describe/Explain Population Pyramids
-![[Bangladesh Pyramid.png]]
+![[/Geography/Bangladesh Pyramid.png]]
 ##### Wide base showing high  proportion of young dependants
 High birth rates:
 * Lack of family planning
