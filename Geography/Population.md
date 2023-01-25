@@ -104,6 +104,16 @@ Declining death rates and increased life expectancy
 	* Land is farmed intensively, causing soil to deteriorate
 	* Deforestation to make space for more farmland
 * Not enough housing causing people to build their own which are unsafe and unregistered
-	* Lack of basic amm
+	* Lack of basic ameneties such as clean water & a toilet
+* Not enough jobs therefore unemployment rates are high
+* Crime rates increase as people explore other avenues
+* Schools and hospitals are overcrowded with not everyone having access to them
 
 **Solutions**
+* Limit on family size
+	* China enforced One Child Policy in 1979 causing dramatic decrease in number of youths
+* Add incentives for small families e.g free health care & preferential housing
+* Better education about reproduction & families, increasing family planning
+* Focus on education for women, allowing them to pursue careers and focus on themselves instead of starting a family
+* Better access, knowledge & opportunity for abortions
+* Improvements in farming allowing for higher yields
