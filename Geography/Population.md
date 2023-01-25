@@ -117,3 +117,5 @@ Declining death rates and increased life expectancy
 * Focus on education for women, allowing them to pursue careers and focus on themselves instead of starting a family
 * Better access, knowledge & opportunity for abortions
 * Improvements in farming allowing for higher yields
+	* Increased availability and use of fertisliers and pesticides
+	* Fewer families would have many children to work on the farm
