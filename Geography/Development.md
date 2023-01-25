@@ -2,6 +2,8 @@
 * They are averages across the entire country
 	* Huge differences can be hidden
 	* Different areas can have very different levels of development
+	* Rural/Urban differences are not represented. Rural areas tend to be poorer and have worse access to doctors
+	* Countries with a large amount of raw materials e.g oil 
 
 ## Composite Indicators
 Composite indicators are more accurate than single indicators because they give a more broad view of a country instead of focussing on one very small part
