@@ -86,8 +86,13 @@ Declining death rates and increased life expectancy
 * Elderly work very little, can't help with the armed forces & don't pay much if any tax
 	* Age of retirement increases as working class need to work for longer
 
-**Solutions (reduce birth rates)**
-
+**Solutions (increase birth rates)**
+* Increase paternity leave & benefits to incentivise potential mothers to give birth
+* Increase working population thus taxpayers (already happening as retirement age increases)
+	* Decrease pensions to increase retirement age
+* Increase number and quality of nurseries to allow parents to work
+* Push for private pensions instead of public pensions
+* Allow more
 
 #### Youthful (The Gambia)
 **Effects**
