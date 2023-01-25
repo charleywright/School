@@ -92,10 +92,18 @@ Declining death rates and increased life expectancy
 	* Decrease pensions to increase retirement age
 * Increase number and quality of nurseries to allow parents to work
 * Push for private pensions instead of public pensions
-* Allow more
+* Allow more immigrants, increasing the working population
 
 #### Youthful (The Gambia)
 **Effects**
-
+* **Very similar to ageing population just the cause is children**
+* Pressure on working population to provide for over half the population
+* Spend lots of money on services e.g school, hospitals, etc
+* Not enough trained professionals (e.g doctors & teachers) for all the children
+* Pressure on farmers to produce more food
+	* Land is farmed intensively, causing soil to deteriorate
+	* Deforestation to make space for more farmland
+* Not enough housing causing people to build their own which are unsafe and unregistered
+	* Lack of basic amm
 
 **Solutions**
