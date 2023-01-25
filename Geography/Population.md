@@ -77,14 +77,19 @@ Declining death rates and increased life expectancy
 * Imrpoved diets causing people to be healthier
 
 ## Population Structure Consequences
-#### Ageing
+#### Ageing (UK)
 **Effects**
+* More health/care services needed as lots of elderly cannot live independantly
+* Require care if they develop illness/disease, potentially for extended periods of time
+	* Price of healthcare rises, in the UK increase is put on tax payers
+* Strain on working population to support the elderly
+* Elderly work very little, can't help with the armed forces & don't pay much if any tax
+	* Age of retirement increases as working class need to work for longer
+
+**Solutions (reduce birth rates)**
 
 
-**Solutions**
-
-
-#### Youthful
+#### Youthful (The Gambia)
 **Effects**
 
 
