@@ -4,7 +4,8 @@
 	* Different areas can have very different levels of development
 	* Rural/Urban differences are not represented. Rural areas tend to be poorer and have worse access to doctors
 	* Countries with a large amount of raw materials e.g oil in Saudi Arabia which belongs to the very top people
-	* 
+	* Census data may be innacurate (**same reason as inaccurate census data**)
+* 
 
 ## Composite Indicators
 Composite indicators are more accurate than single indicators because they give a more broad view of a country instead of focussing on one very small part
