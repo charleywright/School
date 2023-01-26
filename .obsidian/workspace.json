@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5805964fad1e8ec7",
@@ -165,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95d029fe5dbdfa32",
+  "active": "7add5edea760cde4",
   "lastOpenFiles": [
     "English.md",
     "Geography/Population.md",
