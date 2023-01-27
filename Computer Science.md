@@ -224,6 +224,18 @@ Costs:
 
 #### Encryption/signatures
 **PKE (Public key encryption)**
+Normally communication goes something like this (having implemented it a few times over TCP)
+1. Open a socket, server sends its public key
+2. Client encrypts its public key using the server key and sends it back
+3. Server decrypts the client's key using it's private key
+4. Server generates a shared secret, encrypts using the client key and sends it
+5. Client decrypts the shared key, from now on communication uses a block cipher such as AES CTR
+
+Of course this is not needed to know for the exam, only the following:
+* Public key encrypts a message to be sent
+* Private key decrypts a received message
+* Encryption schemes (Ciphers) are very complicated with lots of maths allowing only the private key to decrpy a message. Brute forcing is near impossible (Sidenote: See )
+* The public key cannot work out the private key (Sidenote: Private keys can normally work out the public key, used by RSA fairly often)
 
 **Digital Certificates e.g SSL**
 
