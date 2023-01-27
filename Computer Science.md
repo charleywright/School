@@ -206,7 +206,21 @@ The Computer Misuse Act (1990) recognises the following as offences:
 Most often used for sessions & storing state, however can be used to exfiltrate data (Does XSS come into this?)
 
 **DOS Attacks**
+Multiple forms:
+* Fill bandwidth so other requests cannot get through
+* Use all available resources e.g disk or CPU
 
+Can be motivated by
+* Financial gain e.g ransom
+* Political opposition (hitting a government site in protest)
+* Personal e.g a grudge, revenge, disproval etc
+
+Costs:
+* Overtime for employees fixing the problem
+* Lost purchases/deals in the time offline
+* Customers going elsewhere
+* Business deals falling through e.g a contractor not being able to complete work
+* Critical infrastructure failing
 
 #### Encryption/signatures
 **PKE (Public key encryption)**
