@@ -240,6 +240,6 @@ Of course this is not needed to know for the exam, only the following:
 **Digital Certificates e.g SSL**
 * Used to validate the sender is who they claim to be
 * Can only be issued by certified authorities e.g Google, Comodo
-* Used for SSL, the padlock indicates secure transport. ()
+* Used for SSL, the padlock indicates secure transport. (Sidenote: HTTPS is not always secure: [Weak cipher suites exist and shouldn't ever be used](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_SSL_TLS_Ciphers_Insufficient_Transport_Layer_Protection)
 
 **Digital signatures e.g HMAC**
