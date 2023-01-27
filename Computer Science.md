@@ -192,3 +192,25 @@ This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110
 * Length
 * Presence
 * Range
+
+## [Security](https://www.bbc.co.uk/bitesize/guides/z9fbr82/revision/1)
+#### Computer Misuse Act 1990
+The Computer Misuse Act (1990) recognises the following as offences:
+1.  Unauthorised access to computer material
+2.  Unauthorised access with intent to commit or facilitate a crime
+3.  Unauthorised modification of computer material.
+4.  Making, supplying or obtaining anything which can be used in computer misuse offences.
+
+#### Risks
+**Tracking cookies**
+Most often used for sessions & storing state, however can be used to exfiltrate data (Does XSS come into this?)
+
+**DOS Attacks**
+
+
+#### Encryption/signatures
+**PKE (Public key encryption)**
+
+**Digital Certificates e.g SSL**
+
+**Digital signatures e.g HMAC**
