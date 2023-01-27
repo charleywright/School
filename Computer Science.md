@@ -234,9 +234,12 @@ Normally communication goes something like this (having implemented it a few tim
 Of course this is not needed to know for the exam, only the following:
 * Public key encrypts a message to be sent
 * Private key decrypts a received message
-* Encryption schemes (Ciphers) are very complicated with lots of maths allowing only the private key to decrpy a message. Brute forcing is near impossible (Sidenote: See )
+* Encryption schemes (Ciphers) are very complicated with lots of maths allowing only the private key to decrpy a message. Brute forcing is near impossible (Sidenote: See [the factoring problem](https://en.wikipedia.org/wiki/Integer_factorization) and [Shor's Algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm) for more detail)
 * The public key cannot work out the private key (Sidenote: Private keys can normally work out the public key, used by RSA fairly often)
 
 **Digital Certificates e.g SSL**
+* Used to validate the sender is who they claim to be
+* Can only be issued by certified authorities e.g Google, Comodo
+* Used for SSL, the padlock indicates secure transport. ()
 
 **Digital signatures e.g HMAC**
