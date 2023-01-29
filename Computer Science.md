@@ -54,6 +54,9 @@ GPS can alert lighting and heating systems to control devices depending on posit
 
 ## [Computer Structure](https://www.bbc.co.uk/bitesize/guides/zr8kt39/revision/1)
 #### Fetch-Execute Cycle
+**Reading**
+
+**
 
 #### System Performance
 **No. Cores**
