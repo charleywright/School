@@ -55,10 +55,10 @@ GPS can alert lighting and heating systems to control devices depending on posit
 ## [Computer Structure](https://www.bbc.co.uk/bitesize/guides/zr8kt39/revision/1)
 #### Fetch-Execute Cycle
 **Reading**
-1. MAR (Memory Address Register) sets up the address bus with the relevant memory location to be read from
-2.  The control unit read line is activated
-3.  The contents of the address held on the address bus are placed on the data bus
-4.  The data bus transfers the data from memory to the MDR (Memory Data Register)
+1. Memory Address Register sets up the address bus with the relevant memory location to be read from
+2.  The **control unit read line** is activated
+3.  The contents of the address held on the address bus are placed on the **data bus**
+4. The data bus transfers the data from memory to the Memory Data Register
 
 **Writing**
 1.  MAR (Memory Address Register) sets up the address bus with the relevant memory location to be written to
