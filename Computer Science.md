@@ -154,10 +154,15 @@ This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110
 
 ## [Design](https://www.bbc.co.uk/bitesize/guides/z3yc9j6/revision/1)
 #### Structure Diagram
+See the link, these are images and would provide no benefit being here
 
 #### Top level design
+See the link, these are images and would provide no benefit being here
 
 #### Pseudocode
+* Not based on any language
+* Not a natural language e.g English
+* Uses indentation to show loops & conditionals
 
 ## Testing
 #### Dry Tuns
