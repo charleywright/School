@@ -66,7 +66,7 @@ GPS can alert lighting and heating systems to control devices depending on posit
 3.  The control unit write line is activated
 4.  Data bus transfers the data to the memory location specified on the address bus
 
-#### System Performance
+	#### System Performance
 **No. Cores**
 More cores -> More tasks can be run in parallel -> Faster execution
 Each core contains an ALU (Arithmetic Unit), control unit and registers
