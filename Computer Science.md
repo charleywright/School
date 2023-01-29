@@ -141,10 +141,12 @@ This means the mantissa is 1110000110101 and the exponent is 111 or $1.110000110
 * Very difficult to store a highly detailed image such as a photo and will produce very large files
 * SVG is the most common format
 
-## Design
+## [Design](https://www.bbc.co.uk/bitesize/guides/z3yc9j6/revision/1)
 #### Structure Diagram
 
 #### Top level design
+
+#### Pseudocode
 
 ## Testing
 #### Dry Tuns
