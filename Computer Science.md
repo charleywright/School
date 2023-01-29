@@ -243,3 +243,6 @@ Of course this is not needed to know for the exam, only the following:
 * Used for SSL, the padlock indicates secure transport. (Sidenote: HTTPS is not always secure: [Weak cipher suites exist and shouldn't ever be used](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_SSL_TLS_Ciphers_Insufficient_Transport_Layer_Protection)
 
 **Digital signatures e.g HMAC**
+* Ensure a message or document is authentic
+* Created using a private key (opposite of PKE)
+* The public key is sent with the signature to validate it

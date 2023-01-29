@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43c0523d22601d87",
+        "id": "0bb2c077f5f6e200",
         "type": "tabs",
         "children": [
           {
-            "id": "31bdf5526ec6aa3f",
+            "id": "9a328ecc248a0fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "0aa1c86a87cd45bb"
+            "group": "f5481d190dd42e96"
           }
         ]
       },
       {
-        "id": "4742f644d362f2f6",
+        "id": "b1ec4642b3218cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "a850728b94ca9837",
+            "id": "159e96545697b4ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "0aa1c86a87cd45bb"
+            "group": "f5481d190dd42e96"
           }
         ]
       }
@@ -166,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a850728b94ca9837",
+  "active": "159e96545697b4ca",
   "lastOpenFiles": [
-    "Geography/Development.md",
-    "English.md",
-    "Geography/Population.md",
-    "Geography/Italy 2050 Pyramid.png",
-    "Geography/Hydrograph Diagram.png",
-    "Geography/Biosphere.md",
-    "Geography/Bangladesh Pyramid.png",
+    "Computer Science.md",
+    "Geography/Cairngorm Case Study.md",
+    "Geography/Lithosphere - Glaciation.md",
+    "Geography/The Sahel Case Study.md",
+    "Untitled.md",
     "Geography/Mumbai Case Study.md",
-    "Geography/The Sahel Case Study (Desertification).md",
-    "Geography/Migration.md"
+    "Geography/Hydrosphere.md",
+    "Geography/Biosphere.md",
+    "Maths.md",
+    "Chemistry.md"
   ]
 }
