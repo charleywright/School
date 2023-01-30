@@ -185,13 +185,16 @@ The classic segfault. The program was running and tried to do something it doesn
 The code runs, no errors are thrown but it does not work as intended. This is commonly due to a subtract instead of add, < instead of >, OR instead of AND, etc
 
 #### Dry Tuns
-Reading code and following it manually with a
+Reading code and following it manually with a pen and paper or on screen. Can find logic errors but not so helpful with execution errors
 
 #### Trace tables/tools
+Trace tables show the values of variables at different lines in the program and with different states. They help the programmer find what conditions are causing the program to not work as intended and where the problem occurs
 
 #### Breakpoints
+Interrupt execution of the program in order to check values of variables at that time. Set on a specific line of code, when execution reaches that line it will halt
 
 #### Watchpoints
+Watch the value of variable(s) and perform an action if a condition is met e.g in a loop a breakpoint may be activated once the counter reaches 10
 
 ## Web
 #### HTML
