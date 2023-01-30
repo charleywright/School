@@ -185,6 +185,7 @@ The classic segfault. The program was running and tried to do something it doesn
 The code runs, no errors are thrown but it does not work as intended. This is commonly due to a subtract instead of add, < instead of >, OR instead of AND, etc
 
 #### Dry Tuns
+Reading code and following it manually with a
 
 #### Trace tables/tools
 
