@@ -171,7 +171,18 @@ Normal inputs that the program or code should accept and know how to deal with
 **Exceptional**
 Input that should cause the program or code to show an error (Data that cannot be satisfied)
 
-**Extremes**
+**Extreme**
+Input that is on the cusp of allowed. This is so check for logic errors, under/overflows etc
+
+#### Errors
+**Syntax error**
+The code will not run due to a mistyped variable, wrong quotes, unclosed bracket etc
+
+**Execution/runtime errors**
+The classic segfault. The program was running and tried to do something it doesn't know how to handle, causing a crash or error. This could be dividing by zero, writing to a non-existent file, dereferencing a nullptr, etc
+
+**Logic error**
+The code runs, no errors are thrown but it does not work as intended. This is commonly due to a subtract instead of add, < instead of >, OR instead of AND, etc
 
 #### Dry Tuns
 
