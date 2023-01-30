@@ -165,6 +165,14 @@ See the link, these are images and would provide no benefit being here
 * Uses indentation to show loops & conditionals
 
 ## Testing
+**Normal**
+Normal inputs that the program or code should accept and know how to deal with
+
+**Exceptional**
+Input that should cause the program or code to show an error (Data that cannot be satisfied)
+
+**Extremes**
+
 #### Dry Tuns
 
 #### Trace tables/tools
