@@ -13,7 +13,7 @@
 #### Bonding, solubility, etc
 * Bonding in elements is a scale from ionic through polar covalent to non-polar covalent
 * Non-polar covalent molecules may contain polar bonds however if the molecule is symmetrical (linear or tetrahedral) the dipoles cancel out, leaving the molecule non-polar
-* Elements with a high electronegativity bonded to hydrogen e.g N, O, F form hydrogen bonds, which are a subset of permanent dipole-dipole bonding
+* Elements with a high electronegativity bonded to hydrogen e.g N, O, F form molecules that can have permanent dipole-dipole forces. 
 
 ## Unit 2 (Nature's chemistry)
 TODO
