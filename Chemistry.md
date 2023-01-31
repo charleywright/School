@@ -4,7 +4,14 @@
 * carbon monoxide is a reducing agent
 * oxidising agents can kill bacteria & act as bleach to remove colour
 
-##### Redox balancing
+##### Redox
+* Reduction is gain of electrons (electrons on the left side)
+* Oxidation is loss of electrons (electrons on the right side)
+* Redox combines reduction and oxidation in one equation
+* Oxidising agents are reduced (they gain electrons, allowing something else to be oxidised)
+* Reducing agents are oxidised (they lose electrons, allowing something else to be reduced)
+
+**Balancing**
 1. Balance the non-oxygen element
 2. Balance oxygens with water
 3. Balance hydrogens with $H+$ ions
@@ -13,7 +20,9 @@
 #### Bonding, solubility, etc
 * Bonding in elements is a scale from ionic through polar covalent to non-polar covalent
 * Non-polar covalent molecules may contain polar bonds however if the molecule is symmetrical (linear or tetrahedral) the dipoles cancel out, leaving the molecule non-polar
-* Elements with a high electronegativity bonded to hydrogen e.g N, O, F form molecules that can have permanent dipole-dipole forces. 
+* Elements with a high electronegativity bonded to hydrogen e.g N, O, F form molecules that can have permanent dipole-dipole forces
+* London Dispersion Forces are forces of attraction between molecules due to temporary dipoles. Difference in electronegativity of about 0.4 is considered a large enough difference for these to form
+* Polar molecules "stick" to eachother with stronger bonds therefore have higher melting & boiling points, and higher viscocity (gloopiness)
 
 ## Unit 2 (Nature's chemistry)
 TODO
