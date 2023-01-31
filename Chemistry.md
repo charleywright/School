@@ -1,5 +1,4 @@
 ## Unit 1 (Chemical changes and structure)
-* In the periodic table, the strongest reducing agents are in group 1, and the strongest oxidising agents are in group 7
 * hydrogen peroxide is an oxidising agent
 * carbon monoxide is a reducing agent
 * oxidising agents can kill bacteria & act as bleach to remove colour
@@ -10,6 +9,8 @@
 * Redox combines reduction and oxidation in one equation
 * Oxidising agents are reduced (they gain electrons, allowing something else to be oxidised)
 * Reducing agents are oxidised (they lose electrons, allowing something else to be reduced)
+* Elements with low electronegativities (left side of periodic table) lose electrons to form ions, therefore are oxidised
+* Elements with high electronegativities (right side of periodic table) gain electrons to form ions, therefore are reduced
 
 **Balancing**
 1. Balance the non-oxygen element
