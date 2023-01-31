@@ -10,6 +10,11 @@
 3. Balance hydrogens with $H+$ ions
 4. Equalise the charges with $e^-$
 
+#### Bonding, solubility, etc
+* Bonding in elements is a scale from ionic through polar covalent to non-polar covalent
+* Non-polar covalent molecules may contain polar bonds however if the molecule is symmetrical (linear or tetrahedral) the dipoles cancel out, leaving the molecule non-polar
+* Elements with a high electronegativity bonded to hydrogen e.g N, O, F form hydrogen bonds, which are a subset of permanent dipole-dipole bonding
+
 ## Unit 2 (Nature's chemistry)
 TODO
 
