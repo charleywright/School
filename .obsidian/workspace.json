@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Geography/Hydrosphere.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Geography/Hydrosphere.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Geography/Hydrosphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Geography/Hydrosphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry.md"
+                "file": "Geography/Hydrosphere.md"
               }
             }
           }
@@ -167,14 +167,17 @@
   },
   "active": "9a328ecc248a0fc6",
   "lastOpenFiles": [
-    "Computer Science.md",
+    "Geography/Development.md",
     "Geography/Cairngorm Case Study.md",
+    "Geography/Biosphere.md",
+    "Geography/Hydrosphere.md",
+    "Geography/Population.md",
+    "Geography/Mumbai Case Study.md",
+    "Geography/Migration.md",
+    "Computer Science.md",
     "Geography/Lithosphere - Glaciation.md",
     "Geography/The Sahel Case Study.md",
     "Untitled.md",
-    "Geography/Mumbai Case Study.md",
-    "Geography/Hydrosphere.md",
-    "Geography/Biosphere.md",
     "Maths.md",
     "Chemistry.md"
   ]

@@ -37,6 +37,16 @@
 * Eddies form at the entrance and exit of the old meander, which slow the flow of water causing it to deposit sediment.
 * The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
 
+## Coasts
+##### Formation of bays and headlands
+
+##### Formation of spit
+
+##### Formation of sand bad
+
+
+####
+
 ## Global Hydrological cycle
 ![Global Hydrological Cycle](https://raw.githubusercontent.com/charleywright/School/master/Geography/Global%20Hydrological%20Cycle.png)
 

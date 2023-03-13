@@ -27,3 +27,5 @@ Composite indicators are more accurate than single indicators because they give 
 	* Adult literacy rate
 * Produces a number between 0 and 100
 * Over 77 is considered "developed"
+
+## Reasons for development differences
