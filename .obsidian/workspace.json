@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Hydrosphere.md",
+                "file": "Geography/Lithosphere - Glaciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Hydrosphere.md"
+                "file": "Geography/Lithosphere - Glaciation.md"
               }
             }
           }
@@ -167,10 +167,10 @@
   },
   "active": "9a328ecc248a0fc6",
   "lastOpenFiles": [
+    "Geography/Hydrosphere.md",
     "Geography/Development.md",
     "Geography/Cairngorm Case Study.md",
     "Geography/Biosphere.md",
-    "Geography/Hydrosphere.md",
     "Geography/Population.md",
     "Geography/Mumbai Case Study.md",
     "Geography/Migration.md",
