@@ -38,14 +38,36 @@
 * The entrance and exit eventually become clogged with sediment, sealing them off from the river and it's new path, forming a horse shoe shaped bog or lake
 
 ## Coasts
+##### Erosional processes
+Each erosional process is worth 2 marks for naming and explaining it. Longshore drift is worth 4 marks. Most questions will allow 4 marks for processes however in some cases 6 marks may be available (10 mark question or maybe cave)
+
+**Hydraulic Action**
+
+**Abrasion/Corrasion**
+
+**Solution/Corrosion**
+
+**Attrition (only useful for depositonal features)**
+
+**Longshore drift**
+
 ##### Formation of bays and headlands
 
 ##### Formation of spit
 
 ##### Formation of sand bad
 
+##### Formation of tombola
 
-####
+##### Formation of wave cut platform
+
+##### Formation of cave (Likely won't ever be asked, is in spec though)
+
+##### Formation of an arch
+
+##### Formation of a stack
+
+##### Formation of a stump
 
 ## Global Hydrological cycle
 ![Global Hydrological Cycle](https://raw.githubusercontent.com/charleywright/School/master/Geography/Global%20Hydrological%20Cycle.png)
